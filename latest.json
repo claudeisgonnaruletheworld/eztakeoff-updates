@@ -1,11 +1,11 @@
 {
-  "version": "0.8.3",
-  "notes": "Reorder details in a folder by dragging; double-click starts a new section; 0% transparency is solid; stopping recording unselects; Ctrl/Shift+click picks several items; templates show sub-items; Merge picked items with the same name; Size Up/Down changes only the item.",
-  "pub_date": "2026-10-09T11:49:23.161Z",
+  "version": "0.8.4",
+  "notes": "Each drawing opens showing the whole sheet; fittings under a page show count/linear icons; Split and Split All on drawing clicks (like Bluebeam); right-click a folder > Sort in fitting order (summary and templates); tees count as branches.",
+  "pub_date": "2026-10-09T12:37:49.378Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2daTStvcDlnSDJwV3BVL0VpRzRLVEpLNGhLZG1iTjFvY0pnMXZIREtJVDNNckxTSGdLNTUzVUhBQzlvYmsxZ25pTGpQOFBJanFkcmZWc0tHcFBFWEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTQ2NTE3CWZpbGU6RVp0YWtlb2ZmXzAuOC4zX3g2NC1zZXR1cC5leGUKYm1KSkxjRjNxNUszUDVNR3dKbDZHRkpzMGlianMwVDZxL1hhaFU2WURhU05Ba3kzMzVyUTgwODlaZHRSandmMUxTTlg2ZDB1enQ5YUNFSlNhSVMvQ2c9PQo=",
-      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3M0YjZObjVHeXphTEdRbm1IS21keG1yK0VQMklnMlRKalNkWWl4RU1WUSs5YzYxZGMrNnZWaFU0UTBpNFUyMkhNNTZvZUgxaHlacktsbWNSY0d0YVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTQ5NDU2CWZpbGU6RVp0YWtlb2ZmXzAuOC40X3g2NC1zZXR1cC5leGUKVnlqbjlDdzEwekJ1TE5NbHNWS3Jwb2RZYUJMemcxQ0lTZ1Fha1lJdHkzenhlRVIwYW5sdzlKdEl3elJQQ3FlUG1XQnI3cWFGdmFJWkd0dnBRM0hHQnc9PQo=",
+      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.4_x64-setup.exe"
     }
   }
 }
