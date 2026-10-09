@@ -1,0 +1,11 @@
+{
+  "version": "0.7.0",
+  "notes": "Built-in updates: EZtakeoff now offers new versions itself (Update now / Later, or Settings > Check for updates). Also: Settings like PlanSwift's Takeoff Tools, template double-click adds at the top, [..] on drop, pop-out windows fixed, drag drawings onto Pages and New Job.",
+  "pub_date": "2026-10-09T04:58:37.464Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3BIKzBVK3A5UEw5c1B5cmx4ZWRtZDFSVzlxWTFIRzVMbVhES2RtRmN4ZHNrYy9taDZmN252Q3RuekxHc2NkQXpWeU9zU0I1aUcvRXdYV3FjL3Q3L1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTA1NDM2CWZpbGU6RVp0YWtlb2ZmXzAuNy4wX3g2NC1zZXR1cC5leGUKSmRVUmVOREFsd1Exemg2eVJnSFJoQUV2bkZTZUZybzNkTzdGMUxBN25JSkFRUFNnaFFaalAxaHVPVlNlMkExaVJpQmVQYTkzMjJmUkNPQ0JQSkVNRFE9PQo=",
+      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.7.0_x64-setup.exe"
+    }
+  }
+}
