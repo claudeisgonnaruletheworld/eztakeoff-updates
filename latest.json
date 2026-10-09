@@ -1,11 +1,11 @@
 {
-  "version": "0.8.5",
-  "notes": "Folders: drag into the gap between folders, Duplicate, Copy and Paste. Pick folders and fittings together with Ctrl/Shift+click; Copy, Paste, Duplicate, Delete and drag act on all of them. Shift+click range fixed. Sort keeps the first fitting first after reopening.",
-  "pub_date": "2026-10-09T14:18:25.099Z",
+  "version": "0.8.6",
+  "notes": "Split view (side by side or top/bottom), hide the side panels (F4/F6), page Back/Forward, pop-out follows Pages, recording shown clearly on the drawing and in the summary, Open in New Tab on right-click, Expand/Collapse All, paste under a fitting gives [..], double-click a placed mark to record a new section, muted tree lines, expand no longer scrolls.",
+  "pub_date": "2026-10-09T15:57:24.017Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2oyOVFCakpmTWM4dVJmdzBSOS9yQmVtSGlqdkxHRHZOdXVPM0xrQyt1VGw3dU9OalVHZnhvVWV3YmR1QlVaY0t1dnNQV2hJSS9hVlBtaElzWDZWR3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTU1NDg4CWZpbGU6RVp0YWtlb2ZmXzAuOC41X3g2NC1zZXR1cC5leGUKUVRza04xbUt2MmRLNU1yRDhiZURteUREdDhLN3lkcHRhcitHd01EUE5mNmxDdlFFTzJrNCtEcDFWVklYYWtPMUpsd0M1ck84eDhjSmJMRWlXZFZVQWc9PQo=",
-      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2hYZ0NLMEx2bi9lVUF5YnFtV2FBOGVhV21paUs4MUJQcnV3emY4L2FqTzg0NGNEakFmSEYxdkVRb0RoRjc4b0lNODRPbThkV3VXYzN2aTdsZDNTcVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTYxNDI1CWZpbGU6RVp0YWtlb2ZmXzAuOC42X3g2NC1zZXR1cC5leGUKZUpKUEEzdVdoOWhUL0xMdmNWVFg3dk92NkpWSEpnd21XZU9DV2N3YzdRaW9rT1FrTTNrNU9OS1p4cmowMDdBZDlnVHpDaWx4dmVVWk5SUUJydy9IQmc9PQo=",
+      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.6_x64-setup.exe"
     }
   }
 }
