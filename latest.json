@@ -1,11 +1,11 @@
 {
-  "version": "0.8.0",
-  "notes": "Notes typed in place with colours, size, bold, italic and strikethrough; count shapes (circle, diamond, triangle, square); a different colour for every template fitting; tree icons; transparency only in Settings; undo no longer cleared after drawing notes.",
-  "pub_date": "2026-10-09T07:09:35.680Z",
+  "version": "0.8.1",
+  "notes": "Program file now called EZtakeoff; zooming while holding right-click to pan stays under the mouse; side panels can be dragged wider; clicking an item no longer jumps to its page (use Go To Page).",
+  "pub_date": "2026-10-09T09:47:16.883Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3NYSkl3NjArZFU2WkMxbDNLTm5ITHgrUVErYVVzMEVRSEpNUWtQUzZDVnVZZDVpa1AvUEJwZHdweXdCT1h3QzlEWTRYaTlENlRNemh5VEd0UVFPMWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTI0OTE1CWZpbGU6RVp0YWtlb2ZmXzAuOC4wX3g2NC1zZXR1cC5leGUKWitwQ2Y2Y2owQ2F2eGRuY3ZSY1B3QURENjhXNXhtZ3lZclk4SlUyVUZ1anpwSFV4SDZGM3V1OEpVbStqT2RYRUlUQlhFOXlCWkUrYlcxT1BhRVRRQUE9PQo=",
-      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2pEUGcrSWxIWXU1U3dKdEVNY01hcW8xM1A1ZjJVWm9lb3F5N3R5UjE4MFhHOWMvYlRVVkFIdkxWNEM1Zm1UVFBoYjNOSGgzWHZLWDVsVXJtMkoxcWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTM4NzA0CWZpbGU6RVp0YWtlb2ZmXzAuOC4xX3g2NC1zZXR1cC5leGUKRWNnZUhzOUYxVm9mS0ZxSnkyRjV5b2NTMVRpY0wzSjQyV1ZoNHAxZjNBLzVvNFcwa3owSTM2RVdJWWdKMk5ucDFEOHdEVWZ3NUdVelk0RFNVeUhIQUE9PQo=",
+      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.1_x64-setup.exe"
     }
   }
 }
