@@ -1,11 +1,11 @@
 {
-  "version": "0.8.2",
-  "notes": "Duplicate starts at 0 (no clicks, even for fittings under a detail); Paste asks whether to copy the clicked points; guide lines in the Takeoff summary (grey under folders, orange under items); drag an item into the gap between fittings to place it there.",
-  "pub_date": "2026-10-09T11:04:49.099Z",
+  "version": "0.8.3",
+  "notes": "Reorder details in a folder by dragging; double-click starts a new section; 0% transparency is solid; stopping recording unselects; Ctrl/Shift+click picks several items; templates show sub-items; Merge picked items with the same name; Size Up/Down changes only the item.",
+  "pub_date": "2026-10-09T11:49:23.161Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3A5T3M5SEpwQ2U3cnZXSld4NTZBZU04cDhkZ24xaHpUZjRueVJyeXh2cnhDbWE2ZDhLQWVnZjhiUmdGQ1UyREJ4MExVaXlHZDZXa1g4RFFXYkFrdEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTQzODczCWZpbGU6RVp0YWtlb2ZmXzAuOC4yX3g2NC1zZXR1cC5leGUKTlR2bXZ5d0gyWVA5aUZYaGJ5RTFENTNibmU2MWMyRWo5ZjBDVmZqeXlRcnBmSU43TC9vMnFuSk0wMmkrbzBkRGk5SVlPTnlOOURZNGNHZVl2d0JRQ2c9PQo=",
-      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2daTStvcDlnSDJwV3BVL0VpRzRLVEpLNGhLZG1iTjFvY0pnMXZIREtJVDNNckxTSGdLNTUzVUhBQzlvYmsxZ25pTGpQOFBJanFkcmZWc0tHcFBFWEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTQ2NTE3CWZpbGU6RVp0YWtlb2ZmXzAuOC4zX3g2NC1zZXR1cC5leGUKYm1KSkxjRjNxNUszUDVNR3dKbDZHRkpzMGlianMwVDZxL1hhaFU2WURhU05Ba3kzMzVyUTgwODlaZHRSandmMUxTTlg2ZDB1enQ5YUNFSlNhSVMvQ2c9PQo=",
+      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.3_x64-setup.exe"
     }
   }
 }
