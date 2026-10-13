@@ -1,11 +1,11 @@
 {
-  "version": "0.8.9",
-  "notes": "PDF pages open straight away the second time: the app keeps a picture of each page in its cache folder and reads the PDF only to sharpen a zoomed-in part.",
-  "pub_date": "2026-10-13T08:27:27.314Z",
+  "version": "0.8.10",
+  "notes": "Pipe points: click a point to pick it (green), Delete point, Add point here. Copy to levels works on folders. Drawings get ready in the background when a job opens. Counts win over pipes when they overlap. Duplicate lands under the original. Folder Name box. Renaming keeps sub-items open.",
+  "pub_date": "2026-10-13T12:18:29.242Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2hHdUxCKzUrb0lrS2YxSXRiYXZFSld5S2NBa0Zjem1mUWpZbHM3MVg5eGxYL1cySkRXUHYvWjhDdTZycHllTUF5M2tEbHJGN3dxNEhSRXhXWnM4dmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODgwMDIyCWZpbGU6RVp0YWtlb2ZmXzAuOC45X3g2NC1zZXR1cC5leGUKV3BKc3RTcVljaVg0WTZtajBFRFJxZnhWM0tKZS9mNTliVXQ5Ulg2Mk5aNzhJOFNHYkc5bDd5Yzl5K3FlM1NpaCtmQy9wOEhhbTFEOVlLQng2QzdNQmc9PQo=",
-      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3NEa1pVdXRaLy81V2FEKzJ6ZGZodktKUFlXZUJsZTZtMXJuaHplaWsyUGxvUXA2bmRGL09abjA3VDhQTUtVMHZVOWsyTDJXYUhjZjQ0TjRUNmZ1UkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODkwOTkwCWZpbGU6RVp0YWtlb2ZmXzAuOC4xMF94NjQtc2V0dXAuZXhlClZ4VlNUZ0VoUTY3UE51TnhFTTFrWHBsV3kzUnJETExnYzI4QzVZekZMUG4raFJlTFdPeWJsV0dueldUSHpKeHNKMmMzb3JNbjBYUFN2ZGFmN0ZRYkJnPT0K",
+      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.10_x64-setup.exe"
     }
   }
 }
