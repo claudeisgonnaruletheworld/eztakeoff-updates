@@ -1,0 +1,11 @@
+{
+  "version": "0.8.8",
+  "notes": "Big PDFs: smoother zooming out and moving around, and about half the memory. Total counts sub-items and shows Counts EA · Pipe m. Fittings under each page in a collapsed list. Move pages by drag or right-click. Box select picks only the item picked in the summary. Templates remember collapsed folders. Settings to turn off recording blinking/banner. Open sample opens the demo job.",
+  "pub_date": "2026-10-13T08:09:18.807Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N21pRUV0Q1hrWFZ4Vi9SNHFvMGI4cmhYdi9WM09GbXVPb0w2UzRpYWlpWG9WVGlKMUdEekJoU3BLMjh5RzlRQkVSNVh2Z1UxNkJuYVhRVmx6Yy9OdFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODc4MTg3CWZpbGU6RVp0YWtlb2ZmXzAuOC44X3g2NC1zZXR1cC5leGUKWTBoT2toTjZKWGRRNzJDL3lTemx1ZUR0ek1YUWgyUkVvcUNFRGdYZTl2QmRXVkVYZjU5RW5LNXYrN2ZpUUZZejdvT1doQ0ZLOVFHNnFXQnNCM0J2Q0E9PQo=",
+      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.8_x64-setup.exe"
+    }
+  }
+}
