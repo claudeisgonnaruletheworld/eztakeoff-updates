@@ -1,11 +1,11 @@
 {
-  "version": "0.8.13",
-  "notes": "Pages: Ctrl+click and Shift+click pick like the Takeoff summary, folders too. Picked pages drag, move to a folder or get a new folder together. Middle-click opens a page in a new tab.",
-  "pub_date": "2026-10-14T10:41:29.161Z",
+  "version": "0.8.14",
+  "notes": "Start page lists your jobs (search, last opened first, one click opens). Templates: top folders are small coloured tabs with arrows when they don't fit; right-click for New Count, New Linear, New Tab, New Folder, Rename (F2).",
+  "pub_date": "2026-10-14T12:01:30.999Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3QwYmVOWWZZZ2ZuZmgzZThlMXRPbU1zNXRJTSs2NEdwQlJKZC9zSitqd2pFR2Y5bVlXL0VzajU3ZVpIRjdrY2I3UHNBVFg0YXdQMG52Z2tzazBBVXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTc0NDY4CWZpbGU6RVp0YWtlb2ZmXzAuOC4xM194NjQtc2V0dXAuZXhlCk9MTWRGbHZYcG1ZdEpsNXdhVmFVQjZGQ2U0RDI3SmRTYzNTN1NUTU1ZYXZMWXpSSW84ekZIZUpadDJ3bEtSY2Y4ZjI3S1dBTW9GVytVNy91WnJYR0RnPT0K",
-      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.13_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2pOb1ZmcVNEMVlFVHAwZWFnNS9CU0t5cENoMFRjeC93dW4yYkM3SXFoOFhOS0J2Z0VZMDZ4VlFCUCtIdHVPcGJlWFVtY24rRmhjYVVIVkxzOTN0RGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTc5MjcyCWZpbGU6RVp0YWtlb2ZmXzAuOC4xNF94NjQtc2V0dXAuZXhlCkcwRDh2bklreHhTWTVLZ3dwU1FiQ3RoZ0t3S2VHSE94OHVLYlJPR1VyaFphaWtjYWJlbEhoWjNmOUhMdTlZdUViVkEyWFhCZHQ3Szg5MkdGcERxVkRBPT0K",
+      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.14_x64-setup.exe"
     }
   }
 }
