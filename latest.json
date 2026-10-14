@@ -1,11 +1,11 @@
 {
-  "version": "0.8.14",
-  "notes": "Start page lists your jobs (search, last opened first, one click opens). Templates: top folders are small coloured tabs with arrows when they don't fit; right-click for New Count, New Linear, New Tab, New Folder, Rename (F2).",
-  "pub_date": "2026-10-14T12:01:30.999Z",
+  "version": "0.8.15",
+  "notes": "Start page: jobs grouped by location with a new look. Templates work like the takeoff summary: Name/Type/Colour/Qty box, drag and drop with [..] and [Takeoff], copy, paste, duplicate, delete, size up/down, Ctrl+Z; double-click or drag adds to the summary.",
+  "pub_date": "2026-10-14T12:47:33.517Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2pOb1ZmcVNEMVlFVHAwZWFnNS9CU0t5cENoMFRjeC93dW4yYkM3SXFoOFhOS0J2Z0VZMDZ4VlFCUCtIdHVPcGJlWFVtY24rRmhjYVVIVkxzOTN0RGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTc5MjcyCWZpbGU6RVp0YWtlb2ZmXzAuOC4xNF94NjQtc2V0dXAuZXhlCkcwRDh2bklreHhTWTVLZ3dwU1FiQ3RoZ0t3S2VHSE94OHVLYlJPR1VyaFphaWtjYWJlbEhoWjNmOUhMdTlZdUViVkEyWFhCZHQ3Szg5MkdGcERxVkRBPT0K",
-      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.14_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2tmVTVGYVlUMWo3L1RQT0wrZ1RQVEdVdC9QbGJMVEtHU2tmcWhXVmJsaXpDUWZDSUV1YVNCV0xJcmJkenkrL3kraThCTWV3cGxLdFRVNlNmWFFEckFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTgyMDMwCWZpbGU6RVp0YWtlb2ZmXzAuOC4xNV94NjQtc2V0dXAuZXhlClFCVjlEL25VeUJwa2dKelp4MmR6YUtKcnIzdUNPVDd3eE1ZMktlNWtyT3ZCV2tvUjkyQW9NU3daSXB1T3psQzVkTmtzNnhUa2dld2t3NEVPS2ExTEJnPT0K",
+      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.15_x64-setup.exe"
     }
   }
 }
