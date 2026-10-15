@@ -1,11 +1,11 @@
 {
-  "version": "0.8.16",
-  "notes": "Edit names in place: the pencil on the Takeoff Summary, Pages and Templates makes every name editable; a double right-click edits just one (Enter or click away saves, Esc cancels). Small Count and Linear buttons beside each folder add a default one.",
-  "pub_date": "2026-10-14T13:24:36.184Z",
+  "version": "0.8.17",
+  "notes": "Saving keeps working after folders are deleted; new History… button",
+  "pub_date": "2026-10-15T08:35:28.880Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2wyU3QybHNHOXpoaEU0RER5YXJaT1RMTWNrYTVCRFdPK0k1c0ZUUFdBRktFdTVmVHF6RFR4WDFRSlRnbzEyWGNuRXc2MGs2WjJzdmMvTlQva0ptQVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTg0MjYzCWZpbGU6RVp0YWtlb2ZmXzAuOC4xNl94NjQtc2V0dXAuZXhlCjFFOFJGbzdrenJxbTh6ejhMUUtCaHh6enFsNUtFaTlweDJpTFdtREhUV2FzKzJERmxjaStUS2IvOVAwY09PTUNtbkhkZTlSQXBIc0Jxak9HKzU1RkRBPT0K",
-      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.16_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2c4NVF1SGFyNjZmYklCOTV1TjhOWG1tdzBuN2JDVlMrMlYyc3gxMDNBZHo5eml5c1daam5CLzFSa0ZZZEwxRW80bUxFOVY3TXNJdktQN1IvUHRybHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDUzMjU0CWZpbGU6RVp0YWtlb2ZmXzAuOC4xN194NjQtc2V0dXAuZXhlCmhLR3lzVmJFY2oweE5kVGhMdUNCZHpvZXY1VUVwL2xtZWJ6RkR6MGZ3RGJuQ2Z1NFl6YU1SNzJaQ2dOa3VOU3VzNVhXNGVqZUpyWXcxM0pNZDZOcENBPT0K",
+      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.17_x64-setup.exe"
     }
   }
 }
