@@ -1,11 +1,11 @@
 {
-  "version": "0.8.19",
-  "notes": "Deleting a group works on OneDrive folders (no more Access is denied)",
-  "pub_date": "2026-10-16T08:57:16.849Z",
+  "version": "0.8.20",
+  "notes": "Copy to levels copies every picked item and folder. Closing the main window closes popped-out drawings. Asks for the scale before a linear or dimension on an unscaled page. Size Up/Down works on every HDPE size.",
+  "pub_date": "2026-10-16T15:04:24.872Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3E4T0VBVFlSc1VQZTVsVm5LZDJNK1psd2tvS1ZDd3BTN3FzYnNJb210eDlzeVVVcVo0M2ZIVFAya1ZwYS9INjlqUldEMXgvK3B5Qzc5T0l1UlArcGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTM2NTI2CWZpbGU6RVp0YWtlb2ZmXzAuOC4xOV94NjQtc2V0dXAuZXhlCkdsSDQrZy9BZWk4TVhJZWl0TVJHQW9BcjdFYlFueElOMy92VVU4NEw2NC9xSWtUamozLzRWdm9DVTdoWFlZUHVzdS9ud3NuclFmNk1sMVk4SXQ0RkF3PT0K",
-      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.19_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N21LaTVXLy9GRloyMHU3elJWR0RnWXVPdFVYTmRnUER6TnUxbnRGVTBOZmFTcERScDl3MWVnNVovTnVZZ1hjL1A1YzBkcHhQa1F6UWZnZzJWSU9mc2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTYzMDE1CWZpbGU6RVp0YWtlb2ZmXzAuOC4yMF94NjQtc2V0dXAuZXhlCkl1SEJyYUJCdTJTcGpNM1p1bWszdE42UUpuQ1Jjb2dOOHBiaUE3eXcrSkUwdHc2dmJEdk8xdy9QRDNlVGlyRzQ1TnJ4WUNnTG0wUGdsM0Y1anNpTENBPT0K",
+      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.20_x64-setup.exe"
     }
   }
 }
