@@ -1,11 +1,11 @@
 {
-  "version": "0.8.18",
-  "notes": "Deleting a group now removes its folder from disk, so it doesn't come back after a restart",
-  "pub_date": "2026-10-15T14:55:08.270Z",
+  "version": "0.8.19",
+  "notes": "Deleting a group works on OneDrive folders (no more Access is denied)",
+  "pub_date": "2026-10-16T08:57:16.849Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3ErRzV3ZmVyMlRVYUR4eGFOWWxiNFR6TTZpU05iV2FjRDBPOWw4L29CbHN2YUFENWVhN1pHUm5IQ0EraklCVU9tTWFpeFFIK0hzRm9ZV3B5WnZxdWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDc2MDIzCWZpbGU6RVp0YWtlb2ZmXzAuOC4xOF94NjQtc2V0dXAuZXhlCjUrYlZYZTRlSnZPTE53NFpWVjR6WUc5R1FuMWU2dkRyYXROT3pyVm51aEt2WXUzeGxQcS9vR3pYQ3M0dEllQ0dOMnRNUG1zbXlFUXFaVDNwcjF5RkNnPT0K",
-      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.18_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3E4T0VBVFlSc1VQZTVsVm5LZDJNK1psd2tvS1ZDd3BTN3FzYnNJb210eDlzeVVVcVo0M2ZIVFAya1ZwYS9INjlqUldEMXgvK3B5Qzc5T0l1UlArcGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTM2NTI2CWZpbGU6RVp0YWtlb2ZmXzAuOC4xOV94NjQtc2V0dXAuZXhlCkdsSDQrZy9BZWk4TVhJZWl0TVJHQW9BcjdFYlFueElOMy92VVU4NEw2NC9xSWtUamozLzRWdm9DVTdoWFlZUHVzdS9ud3NuclFmNk1sMVk4SXQ0RkF3PT0K",
+      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.19_x64-setup.exe"
     }
   }
 }
