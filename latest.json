@@ -1,11 +1,11 @@
 {
-  "version": "0.8.21",
-  "notes": "Clicking a row in the takeoff summary no longer scrolls the list. Count and linear icons in the summary take their template tab's colour.",
-  "pub_date": "2026-10-19T07:30:49.628Z",
+  "version": "0.8.22",
+  "notes": "Count and linear icons take their template tab's colour in the Templates tree and the takeoff summary, every time (templates taken into the summary remember their tab). Right-click a tab > Tab Colour… to change a tab's colour; right-click items > Icon Colour… or use the new Icon row under either tree to pick an icon's colour.",
+  "pub_date": "2026-10-19T08:27:38.833Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2lMMTBJV1VINy80aGRCTnZ6U3UyL1ROOUdLdEJlSW5KWmMwQU8zZ1pIMXNBNUVmN0FCZC9pdHVnejdCVU40RDVPM3NkazJ1dS81a2xoOFJoY1RrbmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzk1MDEyCWZpbGU6RVp0YWtlb2ZmXzAuOC4yMV94NjQtc2V0dXAuZXhlCkFDbjEvVHZ0MUFvUCtPTS9KM1QzWXdLbmJHdjdJQ1UyK0dSeHRSbTNxME4xeW0rWEJYMVl3ekhQUkJIRVlSR0tjQmg3NW9IY245Y3JQMkhDY0tsbkNRPT0K",
-      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.21_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3Z4d2V3Y21ONjhub3Zwa3hwZm5iWnpMWU5rMDdUWUJKNTQ2RWVPbjF0bC9SYjlmYUp4VExRVlJiVzA5SHhRL0d6YzZvOEtXMkIzVHBGY3EzbWFFRFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzk4NDMyCWZpbGU6RVp0YWtlb2ZmXzAuOC4yMl94NjQtc2V0dXAuZXhlCnNYaTJ4UXFObHpMN0d5dmVvNTQ1cXp2RDg1Y2ZEbHJ5WnB5M0UxemVWOHdwWFhsbkFBVDU2MW9GaUlLcENZd2dzR0ZEdUIxc2RDNmpMaEJtcElEdkNBPT0K",
+      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.22_x64-setup.exe"
     }
   }
 }
