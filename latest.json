@@ -1,11 +1,11 @@
 {
-  "version": "0.8.23",
-  "notes": "Size Up/Down keeps to the item's templates tab (cast iron no longer jumps to 76mm). A folder picked in the Takeoff Summary shows everything in it selected on the drawing. Tab colour picker in the box under Templates, and tabs drag into a new order. Several fittings dragged together keep their order, a pipe among them too.",
-  "pub_date": "2026-10-19T09:56:30.968Z",
+  "version": "0.8.24",
+  "notes": "Create Detail: pick several fittings on the drawing, right-click > Create Detail…, choose the parent; the others become its sub-items with [..] (times how many per parent) and totals stay the same. The box under the Takeoff Summary keeps one height, so picking or double-clicking an item lower down no longer moves the list.",
+  "pub_date": "2026-10-19T13:42:06.830Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3FuZWNyY0h5bFVQRWIzY3d1bWg1bzBIbUk2bDVFbk5QMDl6ei9iOWZ6R2FmMWhVVkFmbGx1QjFoalg5b01mWjVVZmZqblpCaVU5SEIyZmRnMG42UndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDAzNzY4CWZpbGU6RVp0YWtlb2ZmXzAuOC4yM194NjQtc2V0dXAuZXhlCm1NVlBoOU1ab3ZFeUEwTjVvNCt1ZzllRkltcU5JUGk1SW52Yk9VYXR6Lzk4emIyd0dkTEcvRHBkblppUWgwVklweFE0MFlBazRuOW1LQytFOFNHMEFBPT0K",
-      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.23_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2pXeW9OTFNsY0tqUFdtQnd3V3RqcGQzWUNDUmxXbWxadjIxWkZabVErY0F5T0RJd1A0SDAwbit5bkRUVXlkSnlRVmRhUEZ5R2Z5K2NaeFJuT2pJN2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDE3MzEwCWZpbGU6RVp0YWtlb2ZmXzAuOC4yNF94NjQtc2V0dXAuZXhlCmJzaUFlL0gxVkFZalgyOW9HRnFFbjhZQ1lMMFR5U0t0ZFlWZG9neXd6OS9uRW81NC85a0RseXJRZWxsU0xPTWxTZS9IL2hGRENKdDNGVSs1SkxHS0RnPT0K",
+      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.24_x64-setup.exe"
     }
   }
 }
