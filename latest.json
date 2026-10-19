@@ -1,11 +1,11 @@
 {
-  "version": "0.8.20",
-  "notes": "Copy to levels copies every picked item and folder. Closing the main window closes popped-out drawings. Asks for the scale before a linear or dimension on an unscaled page. Size Up/Down works on every HDPE size.",
-  "pub_date": "2026-10-16T15:04:24.872Z",
+  "version": "0.8.21",
+  "notes": "Clicking a row in the takeoff summary no longer scrolls the list. Count and linear icons in the summary take their template tab's colour.",
+  "pub_date": "2026-10-19T07:30:49.628Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N21LaTVXLy9GRloyMHU3elJWR0RnWXVPdFVYTmRnUER6TnUxbnRGVTBOZmFTcERScDl3MWVnNVovTnVZZ1hjL1A1YzBkcHhQa1F6UWZnZzJWSU9mc2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTYzMDE1CWZpbGU6RVp0YWtlb2ZmXzAuOC4yMF94NjQtc2V0dXAuZXhlCkl1SEJyYUJCdTJTcGpNM1p1bWszdE42UUpuQ1Jjb2dOOHBiaUE3eXcrSkUwdHc2dmJEdk8xdy9QRDNlVGlyRzQ1TnJ4WUNnTG0wUGdsM0Y1anNpTENBPT0K",
-      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.20_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2lMMTBJV1VINy80aGRCTnZ6U3UyL1ROOUdLdEJlSW5KWmMwQU8zZ1pIMXNBNUVmN0FCZC9pdHVnejdCVU40RDVPM3NkazJ1dS81a2xoOFJoY1RrbmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzk1MDEyCWZpbGU6RVp0YWtlb2ZmXzAuOC4yMV94NjQtc2V0dXAuZXhlCkFDbjEvVHZ0MUFvUCtPTS9KM1QzWXdLbmJHdjdJQ1UyK0dSeHRSbTNxME4xeW0rWEJYMVl3ekhQUkJIRVlSR0tjQmg3NW9IY245Y3JQMkhDY0tsbkNRPT0K",
+      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.21_x64-setup.exe"
     }
   }
 }
