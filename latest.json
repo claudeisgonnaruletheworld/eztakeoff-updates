@@ -1,11 +1,11 @@
 {
-  "version": "0.8.26",
-  "notes": "Drawing windows belong to the main window: one taskbar button brings both up. Minimising a drawing window puts it back as a tab; click that tab to pop it out again where it was. 'Icon Colour of Template Tab' is now called Material Type.",
-  "pub_date": "2026-10-20T09:09:10.515Z",
+  "version": "0.8.27",
+  "notes": "Sub-folders can be dragged in between the fittings (Summary and Templates) and stay there. Hold the right mouse button and drag an item or folder to drop a copy; the original stays. Right-click sub-menus open to the left when there's no room on the right.",
+  "pub_date": "2026-10-21T09:50:23.825Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2tYYTJWUnlXbTVydDllVE4zQzZSaEpIYlp4WVlqUUZtUUxzSHZleHdhOERkVThiazVwV3M0dUVMeVM4dFZnUmhtMzZTZktmN3pMQWF4VWlUNWFHNHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDg3MzMwCWZpbGU6RVp0YWtlb2ZmXzAuOC4yNl94NjQtc2V0dXAuZXhlCms2RDk5aU9IS0tqdVpXaHFzbGFDMW5KOUZZamJTM3pBN1FYTER3eFF0UXRDbGszeEM3OXljdGhPY1hsYVRvOHVTSFVtcFZTcHd5b1BhdHo3dXBxV0NnPT0K",
-      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.26_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2lRbE42STA5VkUzdGZYbG0zbUxqUHB1cnhrQkIyS2RMbGxjbXlldU5XeFdWc0luWEIyNytDTEh6UXAwYVlsUEJiYjlVN1VJekU5M3ZEdmpYQ285QlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTc2MjA0CWZpbGU6RVp0YWtlb2ZmXzAuOC4yN194NjQtc2V0dXAuZXhlCjExZmRraW5RSlVZTHFnNlZWaGdXSFU4alZOTmpxeDhZWENSbk1FOXdydzlEZVE5WHEreCtSV2pqa3hZZkp1a3VLOUtTOFF5NGFkdzg2cVNrOFdQdEJBPT0K",
+      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.27_x64-setup.exe"
     }
   }
 }
