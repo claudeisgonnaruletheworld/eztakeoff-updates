@@ -1,11 +1,11 @@
 {
-  "version": "0.8.27",
-  "notes": "Sub-folders can be dragged in between the fittings (Summary and Templates) and stay there. Hold the right mouse button and drag an item or folder to drop a copy; the original stays. Right-click sub-menus open to the left when there's no room on the right.",
-  "pub_date": "2026-10-21T09:50:23.825Z",
+  "version": "0.8.28",
+  "notes": "Right-click > Hide takes fittings, folders or pages off the drawing, and Unhide puts them back (remembered on this PC, the job files don't change). Size Up / Down now works with several items picked: each steps one size, and one Ctrl+Z undoes the lot.",
+  "pub_date": "2026-10-21T15:45:09.629Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2lRbE42STA5VkUzdGZYbG0zbUxqUHB1cnhrQkIyS2RMbGxjbXlldU5XeFdWc0luWEIyNytDTEh6UXAwYVlsUEJiYjlVN1VJekU5M3ZEdmpYQ285QlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTc2MjA0CWZpbGU6RVp0YWtlb2ZmXzAuOC4yN194NjQtc2V0dXAuZXhlCjExZmRraW5RSlVZTHFnNlZWaGdXSFU4alZOTmpxeDhZWENSbk1FOXdydzlEZVE5WHEreCtSV2pqa3hZZkp1a3VLOUtTOFF5NGFkdzg2cVNrOFdQdEJBPT0K",
-      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.27_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2laNWtGdkwxSEs0Vmppc3hIYzZVdHA2dW1mMkdJaWczemZtbDJTR3NDZnppeFQvUFUrTGZvdktyRm1yQ3o3L0xKcDFKL2x6RTN5NnFlLzRkbmc4L1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTk2NzM3CWZpbGU6RVp0YWtlb2ZmXzAuOC4yOF94NjQtc2V0dXAuZXhlCkYzQm5tUFljRkdmV0dTTFNtMTd4cjNpUDBrMFNMbFp3MHdWQ2RRVFRzeHpLRkxRRlo4VHJTWWpBY2d3WndaTjVJZGpicjNCOUdzOGV2MXovTWh3eENRPT0K",
+      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.28_x64-setup.exe"
     }
   }
 }
