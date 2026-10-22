@@ -1,11 +1,11 @@
 {
-  "version": "0.8.30",
-  "notes": "Double-clicking an empty part of the drawing no longer zooms out to the whole page. F7 or the Fit button still fit the page, and double-clicking a mark or note works as before.",
-  "pub_date": "2026-10-22T08:17:41.208Z",
+  "version": "0.8.31",
+  "notes": "Material can be typed in for a fitting (blank keeps its template tab's), and fittings can have your own tags such as Valve: set them in the item panel or right-click picked fittings or a folder. The Excel export shows a Drawing ID column (the page each item was measured on) and one column per tag.",
+  "pub_date": "2026-10-22T08:33:25.637Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3EwdG9CYUlUV2hzM0RzQmc2UVE0V3F3R0MzdDhSQmNJdkNmbmVOR0dkRmVFc2pEaU1CUDdVMEdUWnVzTUhGREtQV1pma3NHZGRsYjFndlJCd0YxUHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjU3MDMzCWZpbGU6RVp0YWtlb2ZmXzAuOC4zMF94NjQtc2V0dXAuZXhlCnZEQjVzR3lCYWpPV3lUZzhOazMySGp6SGZiK2d0bTVPWlRKZVkzSGF4c0lqbFlITHYwN3ltNlY3SnpuRkUrS3ZHaXpGUGtaNjRMSDlVOURUZGNZS0FBPT0K",
-      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.30_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2xZZDc5bVc0LzJ3Rk0yQU4rb3J0ejh0NUZ3QkVHTXpzWEdGTGovQy9SdnFmOEYwbmp1NnN2QUt2RnVFc2pKclZwV3hlaWJwbVZSTVFyK1F6TnpiQkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjU3OTkyCWZpbGU6RVp0YWtlb2ZmXzAuOC4zMV94NjQtc2V0dXAuZXhlCkdxZVVsam5DOVZoTnNlbWpYajJUbEkxdUxMTDgwMVlLajFJUE81QnVuUEFzV0N0aDk3R3h2M3JQeFg5ZDRncVNka2RpeXdYd1NiaCtpOWh5ZEExV0JBPT0K",
+      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.31_x64-setup.exe"
     }
   }
 }
