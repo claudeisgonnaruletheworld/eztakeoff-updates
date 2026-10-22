@@ -1,11 +1,11 @@
 {
-  "version": "0.8.28",
-  "notes": "Right-click > Hide takes fittings, folders or pages off the drawing, and Unhide puts them back (remembered on this PC, the job files don't change). Size Up / Down now works with several items picked: each steps one size, and one Ctrl+Z undoes the lot.",
-  "pub_date": "2026-10-21T15:45:09.629Z",
+  "version": "0.8.29",
+  "notes": "The Excel export has a new Material column on every sheet: the Templates tab each item was taken from (for example HDPE). Items that didn't come from a template are left blank.",
+  "pub_date": "2026-10-22T07:29:50.109Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2laNWtGdkwxSEs0Vmppc3hIYzZVdHA2dW1mMkdJaWczemZtbDJTR3NDZnppeFQvUFUrTGZvdktyRm1yQ3o3L0xKcDFKL2x6RTN5NnFlLzRkbmc4L1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTk2NzM3CWZpbGU6RVp0YWtlb2ZmXzAuOC4yOF94NjQtc2V0dXAuZXhlCkYzQm5tUFljRkdmV0dTTFNtMTd4cjNpUDBrMFNMbFp3MHdWQ2RRVFRzeHpLRkxRRlo4VHJTWWpBY2d3WndaTjVJZGpicjNCOUdzOGV2MXovTWh3eENRPT0K",
-      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.28_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2lOMUgzSENRWkE5S3VlUWhjcE4xT2pWMmNXV2VINWhXODhROEZrM3ZheTVpcG9lRFZteU9rVTgvOWRjRStxZVdsd28yV2JzZDBCWFFjNy85T3hkUmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjU0MTYyCWZpbGU6RVp0YWtlb2ZmXzAuOC4yOV94NjQtc2V0dXAuZXhlCkVjano2SGJOVEJrTU9rNmtzNXJLTnB3TWFpUkl3My9kdytWSVlyK3NIMi94SGNNWUlTKzdJa2wxd3BqVWdkRVAwWW5LQ2diVE5BbUplQVh5N0Zob0NnPT0K",
+      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.29_x64-setup.exe"
     }
   }
 }
