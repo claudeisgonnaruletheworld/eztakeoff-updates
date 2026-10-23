@@ -1,11 +1,11 @@
 {
-  "version": "0.8.34",
-  "notes": "Right-click a folder > Randomize Colours (Takeoff Summary and Templates). Search finds folders by name, and a found item or folder shows everything under it.",
-  "pub_date": "2026-10-23T12:22:26.248Z",
+  "version": "0.8.35",
+  "notes": "Right-click a folder > Lock: only what's in it can be clicked, picked or placed on the drawing (Unlock turns it off). Ctrl+Z undoes renames, also while recording. Counting, a double-click on another fitting's mark switches recording to it. A click on empty drawing unpicks everything.",
+  "pub_date": "2026-10-23T15:35:11.543Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2dqSlAxRW82TG92TVh0dGxtQ2lRNmdIakR2aGpCOVprNExWcDBLTEl0LzRHbFpYSm12K2RSRGxCTVZJSHVGNERGQmdkWENXeWhHZEpWNFF6elJEOGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzU4MDYxCWZpbGU6RVp0YWtlb2ZmXzAuOC4zNF94NjQtc2V0dXAuZXhlClpCeHcrUzc5eFBXU3E2WjJpa1MxZ2FqaXVPQnl0TTNudmZweFExTFE3cklvVXdjOTBYTzdCZkN5MlVnZUdtV0ZTU3p0VVVBbURmc0lHTlNxa3N3ckJBPT0K",
-      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.34_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2huQ2xMRkNGYVlRRWM1RWlWR3ozV2ttZkJJMHUwSUt3bDQwdlNOekNoRGdQYWRCMUJXRGlxc21mQWNqcVBsTjRTZHNPcytkOEJGVDc4RWdpVjAxRkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzY5Njg0CWZpbGU6RVp0YWtlb2ZmXzAuOC4zNV94NjQtc2V0dXAuZXhlCkk5dVlzNDlTTEZJeVNJOHdrcWk0TWtLWjVtaFJ1YlU5c3BSTWJ1enJwaUVnNDVNSWYrSFNDdC9TM25VeW56eG9wejl5d3hBUnRDWlZTY2wvZEJaTkJ3PT0K",
+      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.35_x64-setup.exe"
     }
   }
 }
