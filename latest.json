@@ -1,11 +1,11 @@
 {
-  "version": "0.8.33",
-  "notes": "Split Selected: on the drawing, clicks picked from several items with the same name split off into one new item; in the Takeoff Summary, picked items with the same name split one item per click. A fitting picked in the Takeoff Summary shows on the drawing like one picked there (orange). Marks picked on the drawing always show as picked in the Takeoff Summary, one or many. The list under the summary no longer jumps when you pick an item.",
-  "pub_date": "2026-10-23T08:40:05.034Z",
+  "version": "0.8.34",
+  "notes": "Right-click a folder > Randomize Colours (Takeoff Summary and Templates). Search finds folders by name, and a found item or folder shows everything under it.",
+  "pub_date": "2026-10-23T12:22:26.248Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2hXbFhQa05kelNuUGZNekVxd1BQbEJBWE1MQ1ZYSjd1MUNzTjZONmJvWHcxRHRpLzBDZHJKSXdCUlN3THA2cGNKUmJTRngyaVNUWUhBcmtQSkRBdGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzQ0Nzg3CWZpbGU6RVp0YWtlb2ZmXzAuOC4zM194NjQtc2V0dXAuZXhlCi9OckM1c2lwVmhSQUlDODZNL3V2YUhkL1ErK25Wdm50R016YXFuUkZ4aUFEZ1ViN00rbGVJbTgxbjdVcUtVbjZMT08wY2JobDFCN0s2dnZVUE04ZUFnPT0K",
-      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.33_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2dqSlAxRW82TG92TVh0dGxtQ2lRNmdIakR2aGpCOVprNExWcDBLTEl0LzRHbFpYSm12K2RSRGxCTVZJSHVGNERGQmdkWENXeWhHZEpWNFF6elJEOGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzU4MDYxCWZpbGU6RVp0YWtlb2ZmXzAuOC4zNF94NjQtc2V0dXAuZXhlClpCeHcrUzc5eFBXU3E2WjJpa1MxZ2FqaXVPQnl0TTNudmZweFExTFE3cklvVXdjOTBYTzdCZkN5MlVnZUdtV0ZTU3p0VVVBbURmc0lHTlNxa3N3ckJBPT0K",
+      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.34_x64-setup.exe"
     }
   }
 }
