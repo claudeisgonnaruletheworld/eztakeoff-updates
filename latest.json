@@ -1,11 +1,11 @@
 {
-  "version": "0.8.32",
-  "notes": "PlanSwift import now brings in jobs whose drawings are kept in folders (like HMP Gartree): the drawings come across in the same folders, with all their quantities.",
-  "pub_date": "2026-10-22T12:02:29.474Z",
+  "version": "0.8.33",
+  "notes": "Split Selected: on the drawing, clicks picked from several items with the same name split off into one new item; in the Takeoff Summary, picked items with the same name split one item per click. A fitting picked in the Takeoff Summary shows on the drawing like one picked there (orange). Marks picked on the drawing always show as picked in the Takeoff Summary, one or many. The list under the summary no longer jumps when you pick an item.",
+  "pub_date": "2026-10-23T08:40:05.034Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2pDdU9McHdiUmoxejRrQ1NRY0xzdEg2N210MnBRaEFDRjc1SVVESU1DOGFQS2J2YU81clEwd0NZdFlFWkxRUGM0M3dnT0xYcDEyRGVadFMvRyt5K3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjcwNTM3CWZpbGU6RVp0YWtlb2ZmXzAuOC4zMl94NjQtc2V0dXAuZXhlCmF6SG9yOWM5dHZQRHRibWtHRCt1QVQ2RVJIT3I3d3F5b2xCZlYzc1J5cDd4VHhJUEhQQVFubGdIRHJDMDFKOVoraGlNTEZBVWx3MWJBYnlMeDVPN0FnPT0K",
-      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.32_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2hXbFhQa05kelNuUGZNekVxd1BQbEJBWE1MQ1ZYSjd1MUNzTjZONmJvWHcxRHRpLzBDZHJKSXdCUlN3THA2cGNKUmJTRngyaVNUWUhBcmtQSkRBdGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzQ0Nzg3CWZpbGU6RVp0YWtlb2ZmXzAuOC4zM194NjQtc2V0dXAuZXhlCi9OckM1c2lwVmhSQUlDODZNL3V2YUhkL1ErK25Wdm50R016YXFuUkZ4aUFEZ1ViN00rbGVJbTgxbjdVcUtVbjZMT08wY2JobDFCN0s2dnZVUE04ZUFnPT0K",
+      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.33_x64-setup.exe"
     }
   }
 }
