@@ -1,11 +1,11 @@
 {
-  "version": "0.8.36",
-  "notes": "Pick Run (P), a first try: click a pipe to pick its run up to the next tee, with its length; Shift+click adds runs; click a label like 22ø BCWS to read its size and service. Picks aren't added to items yet. New takeoff summary icons, and a folder shows open while it's expanded. Formulas say [Parent] instead of [..]; old jobs still work.",
-  "pub_date": "2026-10-26T08:46:06.447Z",
+  "version": "0.8.37",
+  "notes": "A menu bar (File, Edit, View, Takeoff, Tools, Help) and new two-colour toolbar icons, with the toolbar tidied up. Right-click menus come in groups with icons and Delete in red at the bottom; colour, material and tags are in sub-menus. Ctrl+click a page in Go To Page to open it in a new tab. Pick Run: with runs picked, click their label to put them into its item; the first time it asks which item and the job remembers it.",
+  "pub_date": "2026-10-26T10:13:14.479Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2tXNW1pdDAxSU9LbkYyWUc4bHczRGdiUk9ZVjNsSlNLUWNXdGhPTlRNVDkrM2hDQWhTMlZsd1E4QkhFWUFuMHQ5cm9yQlhOZ3VrWjhLck85VzZVQmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDA0MzYzCWZpbGU6RVp0YWtlb2ZmXzAuOC4zNl94NjQtc2V0dXAuZXhlCmRuODFRaDdScjdBSnJKSjJoM3U1WjJYRTE0Z3BIR1AzUkJsUndHUlNYZlJ1S21PLy9rWk02ZklFODVyQU5LRFV1dXVnSXhSZ1VESmFndEFvWlFVSUN3PT0K",
-      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.36_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2sxV2hkTXp3RUZBcU8vVzJjWGo3MnlzT2RBZ2NYV25zTjJGODNxUEZwdm1yS0tOL0gyOU5yWlZpekp4cGNjQkFhWUFtZDRRd2tQa2ZXV2ZBZUdLL2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDA5NTkwCWZpbGU6RVp0YWtlb2ZmXzAuOC4zN194NjQtc2V0dXAuZXhlCkh1Y2pkcnA3d3FodDloMURqcHJaSUsvL3hySGdoQkZDODNSbWw1QnJHeStLZEdKZTVYeGJXRDFadTd2aFBzN245aDQ0eUpkV3VCeFNSRU9ZR0ZsUENnPT0K",
+      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.37_x64-setup.exe"
     }
   }
 }
