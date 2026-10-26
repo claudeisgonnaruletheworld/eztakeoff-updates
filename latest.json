@@ -1,11 +1,11 @@
 {
-  "version": "0.8.35",
-  "notes": "Right-click a folder > Lock: only what's in it can be clicked, picked or placed on the drawing (Unlock turns it off). Ctrl+Z undoes renames, also while recording. Counting, a double-click on another fitting's mark switches recording to it. A click on empty drawing unpicks everything.",
-  "pub_date": "2026-10-23T15:35:11.543Z",
+  "version": "0.8.36",
+  "notes": "Pick Run (P), a first try: click a pipe to pick its run up to the next tee, with its length; Shift+click adds runs; click a label like 22ø BCWS to read its size and service. Picks aren't added to items yet. New takeoff summary icons, and a folder shows open while it's expanded. Formulas say [Parent] instead of [..]; old jobs still work.",
+  "pub_date": "2026-10-26T08:46:06.447Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2huQ2xMRkNGYVlRRWM1RWlWR3ozV2ttZkJJMHUwSUt3bDQwdlNOekNoRGdQYWRCMUJXRGlxc21mQWNqcVBsTjRTZHNPcytkOEJGVDc4RWdpVjAxRkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzY5Njg0CWZpbGU6RVp0YWtlb2ZmXzAuOC4zNV94NjQtc2V0dXAuZXhlCkk5dVlzNDlTTEZJeVNJOHdrcWk0TWtLWjVtaFJ1YlU5c3BSTWJ1enJwaUVnNDVNSWYrSFNDdC9TM25VeW56eG9wejl5d3hBUnRDWlZTY2wvZEJaTkJ3PT0K",
-      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.35_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2tXNW1pdDAxSU9LbkYyWUc4bHczRGdiUk9ZVjNsSlNLUWNXdGhPTlRNVDkrM2hDQWhTMlZsd1E4QkhFWUFuMHQ5cm9yQlhOZ3VrWjhLck85VzZVQmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDA0MzYzCWZpbGU6RVp0YWtlb2ZmXzAuOC4zNl94NjQtc2V0dXAuZXhlCmRuODFRaDdScjdBSnJKSjJoM3U1WjJYRTE0Z3BIR1AzUkJsUndHUlNYZlJ1S21PLy9rWk02ZklFODVyQU5LRFV1dXVnSXhSZ1VESmFndEFvWlFVSUN3PT0K",
+      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.36_x64-setup.exe"
     }
   }
 }
