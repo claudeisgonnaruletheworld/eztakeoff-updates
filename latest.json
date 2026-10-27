@@ -1,11 +1,11 @@
 {
-  "version": "0.8.40",
-  "notes": "Smoother moving around a zoomed-in drawing: the sharper picture of the drawing waits until you let go of the mouse, and stops straight away when you move on. Clicks placing a pipe on a big job are quicker.",
-  "pub_date": "2026-10-26T17:02:40.196Z",
+  "version": "0.8.41",
+  "notes": "Recent fittings: press R (or View > Recent Fittings) for a small window with the fittings you used last and the folder each is in. Click one to start recording it. Its cog sets the text size and resets the list. Also: a double right-click on a pipe run's point deletes that point.",
+  "pub_date": "2026-10-27T10:22:20.918Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N243VC9jak9STjU3UHNQUkZYQjdZUmRiczZhMHpIL251V3BIa2k5VHpLdVBvNGFKb3ZZbGE3ZktkMm10UHJuU2tsVk5vV0E4dERJZXRScUoxTnFyRGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDM0MTU2CWZpbGU6RVp0YWtlb2ZmXzAuOC40MF94NjQtc2V0dXAuZXhlCkVrcis4cmVRemlZeGlVbUdSK0ZzbzQrbDNnMDl3SFZlREVNSitxcUM0ZUtLaWFPVCtZM09HaUJKUHJOeGhQUU5HVHFjMGpUOWlzT1k0UUZia3pQU0RBPT0K",
-      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.40_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2hDZExJcHpVdHdzbjZucHJ3Kzl4N2pjR1I0RWNZMW5Vc1lnTU44SXFTcGhjZDhiZzlWRU9rLzVTTVNZVjBmYVB4SDlOM3VBb1NyM01rdTJPdWZnblFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDk2NTM3CWZpbGU6RVp0YWtlb2ZmXzAuOC40MV94NjQtc2V0dXAuZXhlCjNIekJzblZ5eEhsZXBHNFYyd21wOUFzbUYxK2RBMmg0MS94WmtjVW93aFd4OThzV0VmcDY5Mkt2WVJKZ2xiK0JvejFyaUsvWmZSVHkrdzFoYWc5Y0NRPT0K",
+      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.41_x64-setup.exe"
     }
   }
 }
