@@ -1,11 +1,11 @@
 {
-  "version": "0.8.41",
-  "notes": "Recent fittings: press R (or View > Recent Fittings) for a small window with the fittings you used last and the folder each is in. Click one to start recording it. Its cog sets the text size and resets the list. Also: a double right-click on a pipe run's point deletes that point.",
-  "pub_date": "2026-10-27T10:22:20.918Z",
+  "version": "0.8.42",
+  "notes": "Claude Code on this computer can now use EZtakeoff: turn it on in Tools > Settings… > Claude and run the command shown there. Claude can read the open job and its totals, look at the drawings, and add clicks, runs and items. Ctrl+Z undoes anything it adds.",
+  "pub_date": "2026-10-30T09:12:23.865Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2hDZExJcHpVdHdzbjZucHJ3Kzl4N2pjR1I0RWNZMW5Vc1lnTU44SXFTcGhjZDhiZzlWRU9rLzVTTVNZVjBmYVB4SDlOM3VBb1NyM01rdTJPdWZnblFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDk2NTM3CWZpbGU6RVp0YWtlb2ZmXzAuOC40MV94NjQtc2V0dXAuZXhlCjNIekJzblZ5eEhsZXBHNFYyd21wOUFzbUYxK2RBMmg0MS94WmtjVW93aFd4OThzV0VmcDY5Mkt2WVJKZ2xiK0JvejFyaUsvWmZSVHkrdzFoYWc5Y0NRPT0K",
-      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.41_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3BSUEFpS0MwVm4vd0NoWlNEREtSMkJZNTZDU2puNGRxa0xvNzVlUWgveloweWU1SVZ0VWtuaWUzaGFCczQzczltTkc5Vmt2NWVCRCt0eFZtcVMzNndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzUxNTQxCWZpbGU6RVp0YWtlb2ZmXzAuOC40Ml94NjQtc2V0dXAuZXhlCjZ5M1FLeklQazJNaGVJZXIrT29zMFJSWUwrZDlYMmdTaTd5RDI3aURpYTRrTFg2MFlQeWRLYndZc3FpY0pweExxT09YbUVCRjhuNHJBUGQxVXVEU0N3PT0K",
+      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.42_x64-setup.exe"
     }
   }
 }
