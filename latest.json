@@ -1,11 +1,11 @@
 {
-  "version": "0.8.42",
-  "notes": "Claude Code on this computer can now use EZtakeoff: turn it on in Tools > Settings… > Claude and run the command shown there. Claude can read the open job and its totals, look at the drawings, and add clicks, runs and items. Ctrl+Z undoes anything it adds.",
-  "pub_date": "2026-10-30T09:12:23.865Z",
+  "version": "0.8.43",
+  "notes": "File > Export PDF for Bluebeam: a copy of each drawing with your takeoff on it as Bluebeam markups (counts, pipe runs with their lengths, notes, highlights, dimensions), each folder a layer, in a new exports folder in the job. The bottom bar shows the drawing's paper size and scale. File > New Sheet… puts drawings side by side on a new page (also on a page's right-click menu).",
+  "pub_date": "2026-10-30T16:16:59.103Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3BSUEFpS0MwVm4vd0NoWlNEREtSMkJZNTZDU2puNGRxa0xvNzVlUWgveloweWU1SVZ0VWtuaWUzaGFCczQzczltTkc5Vmt2NWVCRCt0eFZtcVMzNndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzUxNTQxCWZpbGU6RVp0YWtlb2ZmXzAuOC40Ml94NjQtc2V0dXAuZXhlCjZ5M1FLeklQazJNaGVJZXIrT29zMFJSWUwrZDlYMmdTaTd5RDI3aURpYTRrTFg2MFlQeWRLYndZc3FpY0pweExxT09YbUVCRjhuNHJBUGQxVXVEU0N3PT0K",
-      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.42_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2pVZEVJQ1RiOTZsNUVmaVhNN2syVjNJWHlaSi92VUZ2RE9ndkNwaTJJSlhURnlUZjFGZDE2eU41ekdmL1dHNjdyVTBTVFBvQmdnaDhJTW1yMHlIb0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzc3MDE1CWZpbGU6RVp0YWtlb2ZmXzAuOC40M194NjQtc2V0dXAuZXhlCld5N01HSWlob3ZtVHFsVGlJamJXWjdTZ2VaMGtxaFBjNUVNUlhjZTJEZEpDQ3JGZEF5OWd3UG5RcWRkT2xFTmk2RVdKQXZOckRyenBOMXJpR2JRS0FBPT0K",
+      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.43_x64-setup.exe"
     }
   }
 }
