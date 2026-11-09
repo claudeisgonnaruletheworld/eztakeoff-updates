@@ -1,11 +1,11 @@
 {
-  "version": "0.8.49",
-  "notes": "Font size on a pipe run picked on the drawing now changes just that run; colour and the rest still go to the whole item. Hold Shift and drag a run's length to move it; it stays there and goes to the Bluebeam PDF there. A picked dimension now has the look bar like a pipe run: line, size, font, text colour and style. Split dimension pieces show 2 decimals.",
-  "pub_date": "2026-11-09T15:23:03.720Z",
+  "version": "0.8.50",
+  "notes": "A split dimension is drawn as one dimension per piece, with arrows at every break. Pick a dimension and drag one of its ends to make it longer or shorter. Shift+click runs of one pipe, then right-click > Connect runs: they become one run with one length, the total. Moving a pipe's length is now Alt+drag (was Shift+drag).",
+  "pub_date": "2026-11-09T16:02:58.055Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3VrTzNKdHZaRVFyeFJuRTZzVTYxY0tvM3Y0YTlramh3Sml2em1CalFvdFM5blF2YVU5bXhneURTNUtaMjJzRWFYRGxSb1hnQitDL2NkdmozeVNGcHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjM3NzgwCWZpbGU6RVp0YWtlb2ZmXzAuOC40OV94NjQtc2V0dXAuZXhlCmdoUXhEUlQ4Z1h3Z1I5dW56RHdYbFh2dHc1K3QxOWt2NHdyQy9WVkFFUkVXVzFmZndxb2M4b3JjbGQ2UVQwS2JOdVRmczg4aEtYZTNFUlQvRE1GMUJnPT0K",
-      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.49_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3Q4Y1RJMzJOd1J2WDlmdVMzQjhKMkpoSW5SbWNuZUdLVDVyOWJNZ2N0UHZvaDVONkltOEtFRjhyTkNLOWlOYUZjQ1I5TjJvdmFIcWFKNUNjWDFVakFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjQwMTc0CWZpbGU6RVp0YWtlb2ZmXzAuOC41MF94NjQtc2V0dXAuZXhlCjFNQmoySVJwUnJMVmgxYlV4OWJFQkpLcTU3ZnFEdDNoYkpVQkd3UUd4REROZkEyNTFFUENnTURzaS95anZBQ3BwUXpzeEVxYzR3TGhvU2c3MGQweUJ3PT0K",
+      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.50_x64-setup.exe"
     }
   }
 }
