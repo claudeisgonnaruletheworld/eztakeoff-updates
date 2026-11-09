@@ -1,11 +1,11 @@
 {
-  "version": "0.8.45",
-  "notes": "Pipe runs and counts get Bluebeam's markup properties in a bar under the toolbar: line colour, opacity, line style and width, start and end arrows, highlight, segment lengths, count symbol and scale, caption (name and length or count), font, size, text colour and style. Pipes now show their length above them. The PDF for Bluebeam writes the same settings. Pick Run: hold and drag along a pipe to pick just that part, forwards or backwards and on past a tee; a pipe already taken off isn't picked again (Ctrl+click picks it anyway).",
-  "pub_date": "2026-11-09T10:55:36.281Z",
+  "version": "0.8.46",
+  "notes": "A pipe run's length now shows just once, above the pipe, and nothing underneath. A run that isn't joined on gets its own length; the other straights' lengths show only with Segments ticked, above the pipe too. The PDF for Bluebeam now draws counts and pipes at the same size as the app. File > Export PDF for Bluebeam… asks where to save (a folder when there are several drawings) and remembers the last place.",
+  "pub_date": "2026-11-09T11:37:27.981Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2ozVmEyZ0lyTU1xV3BkclBCUDNHbGdqRmcrRDExaHNuTFZIZmsrV0tmN2pOWHB3aDVTMVN5OXQ3bXM1blFTU00rL1BiUDVoc3J3TmEvdjY5TWQrdHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjIxNzM0CWZpbGU6RVp0YWtlb2ZmXzAuOC40NV94NjQtc2V0dXAuZXhlCmY0RzFxbWNVNWJPYnlUd3cvcHZMbE9vVG11R2V4eXpnVHN5TFQ2TXQ1RnZ6dEpGdjFhWlVSTjY0R2lxSlkvcGRuVWtGeHF4WFNralJqRVVNUldhZUJnPT0K",
-      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.45_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N21XWldJNnA0aGNzNnFFNHo4UG4wdnpSM0tSWHFsRC9WeDhTNjBJcE1GYVZGT29wdGNEQjRrWWo1b3FwZWZVQkdONDJYZEJUcFRHaFVjdGFYQ3QzSUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjI0MjQ0CWZpbGU6RVp0YWtlb2ZmXzAuOC40Nl94NjQtc2V0dXAuZXhlClhwNjE5Zk9zbW9SVDJYMHBXeUZpSzE2dmVLSVFUNElZSUZreFlyaCttR244YWd4Yko3bE5MQy9XWDB1dWhrUGxxeHVVT2NHVkc4enhnR21QM2F6R0JnPT0K",
+      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.46_x64-setup.exe"
     }
   }
 }
