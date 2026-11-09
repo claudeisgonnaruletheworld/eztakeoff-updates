@@ -1,11 +1,11 @@
 {
-  "version": "0.8.44",
-  "notes": "PDF for Bluebeam: each pipe run's length is now written once, just above the pipe, in smaller text, instead of on every segment.",
-  "pub_date": "2026-10-30T16:41:56.812Z",
+  "version": "0.8.45",
+  "notes": "Pipe runs and counts get Bluebeam's markup properties in a bar under the toolbar: line colour, opacity, line style and width, start and end arrows, highlight, segment lengths, count symbol and scale, caption (name and length or count), font, size, text colour and style. Pipes now show their length above them. The PDF for Bluebeam writes the same settings. Pick Run: hold and drag along a pipe to pick just that part, forwards or backwards and on past a tee; a pipe already taken off isn't picked again (Ctrl+click picks it anyway).",
+  "pub_date": "2026-11-09T10:55:36.281Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2dlRzZHaTZOZnh5ME5CWmQ4SmhPVUxKNnpJQjVGaVJwZ0VQZ0lOK0h3VGs5NjJOU2Q4OWFvcjRYbm8ySkJCaHMyUitXbE1hZTBBLzliL0luY1pyRlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzc4NTEzCWZpbGU6RVp0YWtlb2ZmXzAuOC40NF94NjQtc2V0dXAuZXhlCmpZN0kzUWE2VUUvcWJlb082ZWIwUlJhRlhiVno2TDdFS3pRT0R0VzRUVGI4OW9wNkpaUnpYZ3B2OWl3SXVyNzlFbGV6QXAyYkhsRU1COTdhVlg4Z0FRPT0K",
-      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.44_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2ozVmEyZ0lyTU1xV3BkclBCUDNHbGdqRmcrRDExaHNuTFZIZmsrV0tmN2pOWHB3aDVTMVN5OXQ3bXM1blFTU00rL1BiUDVoc3J3TmEvdjY5TWQrdHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjIxNzM0CWZpbGU6RVp0YWtlb2ZmXzAuOC40NV94NjQtc2V0dXAuZXhlCmY0RzFxbWNVNWJPYnlUd3cvcHZMbE9vVG11R2V4eXpnVHN5TFQ2TXQ1RnZ6dEpGdjFhWlVSTjY0R2lxSlkvcGRuVWtGeHF4WFNralJqRVVNUldhZUJnPT0K",
+      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.45_x64-setup.exe"
     }
   }
 }
