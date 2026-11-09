@@ -1,11 +1,11 @@
 {
-  "version": "0.8.46",
-  "notes": "A pipe run's length now shows just once, above the pipe, and nothing underneath. A run that isn't joined on gets its own length; the other straights' lengths show only with Segments ticked, above the pipe too. The PDF for Bluebeam now draws counts and pipes at the same size as the app. File > Export PDF for Bluebeam… asks where to save (a folder when there are several drawings) and remembers the last place.",
-  "pub_date": "2026-11-09T11:37:27.981Z",
+  "version": "0.8.47",
+  "notes": "A pipe run shows one length label, its total, whatever its corners; runs of the same pipe that touch share one label. The Segments button is gone. Dimensions in the PDF for Bluebeam look as they do in the app (thin line, small arrows, 7 pt length), and a dimension just past 6 m no longer counts an extra 3 m length. New Sheet shows the drawings themselves in its preview, stays tidy with long drawing names, and says plainly what the sheet will be.",
+  "pub_date": "2026-11-09T14:19:25.557Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N21XWldJNnA0aGNzNnFFNHo4UG4wdnpSM0tSWHFsRC9WeDhTNjBJcE1GYVZGT29wdGNEQjRrWWo1b3FwZWZVQkdONDJYZEJUcFRHaFVjdGFYQ3QzSUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjI0MjQ0CWZpbGU6RVp0YWtlb2ZmXzAuOC40Nl94NjQtc2V0dXAuZXhlClhwNjE5Zk9zbW9SVDJYMHBXeUZpSzE2dmVLSVFUNElZSUZreFlyaCttR244YWd4Yko3bE5MQy9XWDB1dWhrUGxxeHVVT2NHVkc4enhnR21QM2F6R0JnPT0K",
-      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.46_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3Q2eGM2VENzdFl0SjJURmEvVXo3bUFPc3hYcEpWeGlUaTdVVmRCMUJsRGtCS1Flbjd3UFVBM1NVNTJ0b3g3ZUZWd0x3SS9HTTVsVlIyRU1sVkNPWVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjMzOTYyCWZpbGU6RVp0YWtlb2ZmXzAuOC40N194NjQtc2V0dXAuZXhlCkMveXJzVUdtZ3hUKzBhS0FTenhGZnQ3YWNKbFhmSjQ5bmJTYTgvbHV2dkJLY0JzVWNDcDJENlhWWU1JQ2YydmVKeFQ5bWdXZXJjTmdBMUtQOEpsRURnPT0K",
+      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.47_x64-setup.exe"
     }
   }
 }
