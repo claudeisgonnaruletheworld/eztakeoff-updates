@@ -1,11 +1,11 @@
 {
-  "version": "0.8.51",
-  "notes": "Shift+drag moves a pipe's length again, and a dimension's length too; the PDF for Bluebeam puts it where you left it. Connect points: click a run, click one of its points, Shift+click a point on another run of that pipe, then right-click > Connect points: the two runs become one, joined there.",
-  "pub_date": "2026-11-09T16:39:15.555Z",
+  "version": "0.8.52",
+  "notes": "Settings > Takeoff Tools is readable again: the groups no longer squeeze together and overlap, and tick boxes sit next to their words.",
+  "pub_date": "2026-11-10T12:36:40.416Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N215ZmdhaVZadVBndk5USlUydGFXQ1B1V0RTUmRLb3JnZjlQQ01XY1FJOTVZdWcrN0JFOUV6VHB0R3dvSzIxSXpzbS8vek9zcnd2NnppRDJXYnlFOHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjQyMzUxCWZpbGU6RVp0YWtlb2ZmXzAuOC41MV94NjQtc2V0dXAuZXhlClNMWm54WXEyN2dqQmhLQmtHTWNYeld3L0x5dVo4a2paVEZZbnEwU3VPNnZRS21WRHdOdExTc2dIWTN6UlBMWWFHd2Vic0VLMFN5WDNSdkoxZjRqQ0FBPT0K",
-      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.51_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3RpT0xndmRvVUJDb051UVhhaFBwemk0cG5Mc2h4L2tsNTNYeDhnbERMUUJVa0o4Y09oWEJLWlVEVkZ2VUliNnY1ZStGOS8yeWgwOUtvaE56RUVhUlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzE0MTk2CWZpbGU6RVp0YWtlb2ZmXzAuOC41Ml94NjQtc2V0dXAuZXhlCk93SUNHdHdWRTVpRnJXMlhMWEhITlFFLzQ2OUtybXRZZUxmZWVINWNNNk9PZjhLQzFycXhoMGNGUjE2MUVNemg3K3ZDcGgrWEU5UmlwTFUyUHYvWkNBPT0K",
+      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.52_x64-setup.exe"
     }
   }
 }
