@@ -1,11 +1,11 @@
 {
-  "version": "0.8.53",
-  "notes": "Claude (through Claude Code) can now rename, move, recolour and delete items, delete empty folders, add a template with all its sub-items, set sub-items and reload the job, all while the job is open: page tabs stay open, colours stay as set, and Ctrl+Z undoes each change. It can also read a PDF drawing's text and pipe lines, and check what it found on a picture before adding it. Colours typed by hand in a job file are no longer lost.",
-  "pub_date": "2026-11-10T15:48:51.050Z",
+  "version": "0.8.54",
+  "notes": "Claude's changes to templates, notes and highlights now show in the app straight away, without a restart. A drawing in its own window has its own Set scale… button and shows its scale. A drawing's own window has tabs, and its drawing list highlights the drawing shown. Zoomed in on a PDF, the drawing is shown sharp as map-style squares drawn in the background and kept, so moving around doesn't wait for it (Tools > Settings > View turns it off).",
+  "pub_date": "2026-11-11T21:00:53.067Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2t0U3VhTFdVWHFqUUdrNk1BNWhzY2J6QWdQSXVqWWlaNUlPME04UHdRY2N4UG9qdDRHQmlwZkUxalRvaVpIMzQwSU9QektCc2lCVUt6QlYrMm03RVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzI1NzI4CWZpbGU6RVp0YWtlb2ZmXzAuOC41M194NjQtc2V0dXAuZXhlCnFKdFIwcnVmVUJna09sRTAwVGROVHNkSkEyL2U5SC9UK2E5ZWtXYjRBNmQvZnhTMXpkQzVqcU1OdVIwQUVuQStZeUYydDBBQVFmRVdzRFZrSUU2a0R3PT0K",
-      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.53_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3RpdklZMGsrTEE4d3hRTWFZa1dOUUI5dUdod2IyejB3dFlCK1g4RGhCTGF0RVNsdEVxUFFYdlZTeXgzeW43L0pFWHduVmlUbnhuV000Z003aHptRUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDMwODQ4CWZpbGU6RVp0YWtlb2ZmXzAuOC41NF94NjQtc2V0dXAuZXhlCk8xaXNhQklheEROQzM4cVlTaDhYMkwxaERFYmtOb2dIZlJHQitjelNFSzlyNW5sOW1JNnBKS1ZpYzlraTZGOXZHVjl5aEdLWmhPWko3cEFwUGExSUNnPT0K",
+      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.54_x64-setup.exe"
     }
   }
 }
