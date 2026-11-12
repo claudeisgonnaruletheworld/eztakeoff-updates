@@ -1,11 +1,11 @@
 {
-  "version": "0.8.54",
-  "notes": "Claude's changes to templates, notes and highlights now show in the app straight away, without a restart. A drawing in its own window has its own Set scale… button and shows its scale. A drawing's own window has tabs, and its drawing list highlights the drawing shown. Zoomed in on a PDF, the drawing is shown sharp as map-style squares drawn in the background and kept, so moving around doesn't wait for it (Tools > Settings > View turns it off).",
-  "pub_date": "2026-11-11T21:00:53.067Z",
+  "version": "0.8.55",
+  "notes": "Claude can now follow a whole pipe system from one point, add a page's takeoff in one go (one Ctrl+Z takes it all off), check that every corner and tee has its fitting, and find set ups and set downs on a PDF by their label. Your rules for takeoffs are kept by the app and given to Claude every time: Tools > Settings > Claude > Rules for Claude.",
+  "pub_date": "2026-11-12T01:41:39.713Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3RpdklZMGsrTEE4d3hRTWFZa1dOUUI5dUdod2IyejB3dFlCK1g4RGhCTGF0RVNsdEVxUFFYdlZTeXgzeW43L0pFWHduVmlUbnhuV000Z003aHptRUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDMwODQ4CWZpbGU6RVp0YWtlb2ZmXzAuOC41NF94NjQtc2V0dXAuZXhlCk8xaXNhQklheEROQzM4cVlTaDhYMkwxaERFYmtOb2dIZlJHQitjelNFSzlyNW5sOW1JNnBKS1ZpYzlraTZGOXZHVjl5aEdLWmhPWko3cEFwUGExSUNnPT0K",
-      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.54_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3BxNHNZOVEwQUxybUxsRGpZZWNtSEZVY2RjSEcwQm44c0p6ZG01THd1bSsreStNZm8yanNHNE1GMGVoeHpSeHBYdDFBendOMkR3cXA0QWhYTURvRlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDQ3Njk3CWZpbGU6RVp0YWtlb2ZmXzAuOC41NV94NjQtc2V0dXAuZXhlCjJON0dub1R2amRSNUpxNm1DMTIyWDg2L3FuSjZvdGR1M2FnbVVkUStUL0RKZ2NFUmFJU3NOLzNFMU5ySnVCUGI0M2hla05RUEJ1MEZnQUhsMnAvN0J3PT0K",
+      "url": "https://raw.githubusercontent.com/claudeisgonnaruletheworld/eztakeoff-updates/main/EZtakeoff_0.8.55_x64-setup.exe"
     }
   }
 }
