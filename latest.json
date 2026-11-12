@@ -1,11 +1,11 @@
 {
-  "version": "0.8.58",
-  "notes": "Claude can find a set up or set down drawn only as a small symbol: mark one and it finds the others like it. Claude's pipe trace now goes straight on through a set instead of stopping, and the fittings check expects two elbows at each set.",
-  "pub_date": "2026-11-12T14:14:12.840Z",
+  "version": "0.8.59",
+  "notes": "Viewports, like Bluebeam's: drag a box round part of a drawing and give it its own scale (Takeoff > Add Viewport, or the Viewports button next to the scale). Pipe runs and dimensions inside the box are measured at its scale; a run that crosses its edge is measured part by part.",
+  "pub_date": "2026-11-12T16:39:18.990Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2xtY1NHU0JhVXRlak5WVTZySmEvYi9LaGlkQy96d2Y0Ty9SZzNzV3RpVXM3ZmV5dy8zQ1hNZTVHZ3BKUnMvS016R0k3R2xwQk50L1hva0FVQ1lYd2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDkyODQ2CWZpbGU6RVp0YWtlb2ZmXzAuOC41OF94NjQtc2V0dXAuZXhlClBjU20rYktmRE9hanhFWHUvOFZaN2dZaHNYeHJsZkN6SW5OR0gwWlBsdEtvY2RPbnN5MTJxbGZPU3NEdlFNazhibHE1aU5kVWNGOU9uVXBFNkhsUERnPT0K",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.58/EZtakeoff_0.8.58_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3NLL0FNbEUrUDJyRnFldUNrOGFqT0ttaUFWRThQajFQRDR2cVM4MmZsN21uckJJY3UwZUpsLzkvQkZORGFLQ3FEaEV0REl1N3RkWnNCODRnaFhtd1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTAxNTQ5CWZpbGU6RVp0YWtlb2ZmXzAuOC41OV94NjQtc2V0dXAuZXhlCkI5UndZS3FvVG93WUR6ZXNYangvZWxNU1RqRFNEcXdYT1lFbzJIWkZ1cnF6ME1SNldhdCsyMHlLL3g4ZDhUMHJOU2JnQkE2a1o3Q3NzL21hZjdtVkRnPT0K",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.59/EZtakeoff_0.8.59_x64-setup.exe"
     }
   }
 }
