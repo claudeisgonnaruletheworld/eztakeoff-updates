@@ -1,11 +1,11 @@
 {
-  "version": "0.8.65",
-  "notes": "Claude can set up a job for you: start a new job (only in an EZtakeoff window with no job open), copy PDFs and pictures in as pages into a Pages folder (your files are never changed), and read the scale from a drawing's title block. Claude can suggest a page's scale: a box shows \"Claude suggests a scale\" and it is set only when you click Set scale (Ctrl+Z undoes it).",
-  "pub_date": "2026-11-13T17:01:17.122Z",
+  "version": "0.8.66",
+  "notes": "Claude now sets a page's scale itself when it's missing or wrong, and tells you which page, the scale and why (Ctrl+Z undoes it). New For Claude tool (J): pin numbered notes N1, N2… on a drawing for Claude to read and do; Claude marks each done with a reply. When Claude zooms a page, going back to that page later keeps your own view. The box under Take Off Measurements is now one Properties tab in even rows.",
+  "pub_date": "2026-11-13T19:45:11.807Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3VJVnhzWFJCOERoeTFoa0pYZWE3MmJSTnQxRlJFbS9WdmNhRTVka2Iwd0IyZ1o1Y00rVEwwVHZHc1lUaGlFVUw4ZjdDbTFoWmZ2MEZOMWRtNGp3d2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTg5MjY5CWZpbGU6RVp0YWtlb2ZmXzAuOC42NV94NjQtc2V0dXAuZXhlCnVWY2kvdXJ1alJOWEtabFJWb3Z4czFhT3FGNEl4bUp1TDJXc0xDVk5FVjNhYTNFbU91Z0orVHMxcHRWdno4N1VHZ1JpN3I2ZlU0dzJmYVFTVERvSkRBPT0K",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.65/EZtakeoff_0.8.65_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3MydGpqSUErbUdLSVlwQzJ0d3RkMjN6dStnMDZCNHcxN2lxKytzaDBJamtTQ3lkdVB6L3ZidVA2d1JqdklLQUxjSUR5ZTlVS0NHVDR1L2YvM0kwWndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTk5MTAyCWZpbGU6RVp0YWtlb2ZmXzAuOC42Nl94NjQtc2V0dXAuZXhlCnpoaUlZY1lhMzlNMlV1TVZQMlBiazI5aFlLVWh0cVJvOWpWWGVLRTBPSW9aT0duL3JBaTRqb1R6QTN4ZDExQVBpaDR2RU85QXRCSG9KTnpvZFhFT0J3PT0K",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.66/EZtakeoff_0.8.66_x64-setup.exe"
     }
   }
 }
