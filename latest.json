@@ -1,11 +1,11 @@
 {
-  "version": "0.8.60",
-  "notes": "The right panel is now called Take Off Measurements: Takeoff folder… is New folder…, and the + Detail… buttons under it are gone (right-click > New Detail… still makes one). Open sample works again. For Claude: it can find pipes drawn under other pipes on Revit layouts, check a service's takeoff against its drawing, count the pipes across a bundle, keep a colour legend for the job, and add one route to several stacked pipes at once.",
-  "pub_date": "2026-11-12T21:12:27.514Z",
+  "version": "0.8.61",
+  "notes": "For Claude: it lists every break along a pipe (couplings, set ups and downs, branches, drops, ends), checks fittings against the drawing itself, follows a tag's leader line to its pipe, traces a big system run by run, and can take pictures without the length labels. Claude's questions now show as numbered pins, and the bottom bar takes you to each one. View > Lines Underneath shows the drawing's own lines that Claude reads. Settings > Templates folder can keep your templates and Claude's rules on OneDrive so both PCs share them.",
+  "pub_date": "2026-11-13T06:07:22.917Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3JuK0lHMFpRWUZ2TWpMMnVLWVE4Y2c1OWJHT0diSytTWHB1MVdFN2s5QVVSVVQydXF6UHNGS0t0eHd0M09FRFVkTG1oekNUNld6MWZRNjV6RjN2SGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTE3OTQyCWZpbGU6RVp0YWtlb2ZmXzAuOC42MF94NjQtc2V0dXAuZXhlCjJGMllRRTh3ZlNKaGR0RmhMS0tpL1JSNURpLzdhYVhpRGhIQnJhSnBtWXZ2dlRMMFNIc0hzalR6S1V6VTNkMDREUEtORVFadGg0TmZGUU1uU3BzK0F3PT0K",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.60/EZtakeoff_0.8.60_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3RGOXNHR0JuSVRaN0d3bUJHd3IrZldUWnNGUnNiQmxkdHhuQUZ1WHkxd0dCL2U1blZKeHBtdnpHYXVsY0tDOG8vN3JiNWNoVVB0T1Q1QlNkQW9EcFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTUwMDM2CWZpbGU6RVp0YWtlb2ZmXzAuOC42MV94NjQtc2V0dXAuZXhlCm5wRFhkWVVnTlo2Tk1YUVZrbnYrZHptM3RtRGxsVzIzb1JIWjRBRFBzYzYxbkFucnhNRUh6N29zak4rRHJvNHo0K09iQ01tWDZPTlVXVXBFL2JGWERRPT0K",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.61/EZtakeoff_0.8.61_x64-setup.exe"
     }
   }
 }
