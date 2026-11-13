@@ -1,11 +1,11 @@
 {
-  "version": "0.8.67",
-  "notes": "When Claude connects it reads your EZtakeoff skills first and tells you which ones; it can't change a job until it has, and the bottom bar shows what it read. The Rules for Claude box is gone from Settings: rules for every job go in your skill. Material is one drop-down with its icon colour, and the caption's Turn is now Rotate. Notes for Claude are placed like Claude's questions, with more pin options and a box that drags on its own.",
-  "pub_date": "2026-11-13T22:24:07.424Z",
+  "version": "0.8.68",
+  "notes": "You can answer Claude's questions right on the note: double-click a pink question (or right-click > Answer...), type your answer and press Enter. Your answer shows under the question, the bottom bar counts only the ones not answered yet, and Claude reads your answers.",
+  "pub_date": "2026-11-13T22:41:52.820Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3FuZnU2MXc2Z1ZTWWlJd2VtQklvOWlUMjk5eURZR25zcWFnZlFKRGhTTE9lKzZubWxTRmxpNVkxSUo5NkxDQ0IvaHEwOFVMZXdhM3A2cWJ6dHZDN1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjA4NjQxCWZpbGU6RVp0YWtlb2ZmXzAuOC42N194NjQtc2V0dXAuZXhlCktZdGpUUGxxcklSNmJ5VTRNQkRGb0N6bGxFL1JPZDBXTzBKZkRYTzVVQmN2YTFHNDM3Ukc0WkhHQUQ3ZzZ0RzJCdDNyTjFzdkhMbk13ZlZLbkNZTEJnPT0K",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.67/EZtakeoff_0.8.67_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3RkMVRYd2QxeDBMVVpRYlhKSCtMaGRCTzR4a0FTM1FPVldaOUpkalNBQUk4RU5JRHJoNDkxQnBZUTYzdFh4UFQ3R09MREt6ZEVGbUgyWTFGSVRlVVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjA5NzA1CWZpbGU6RVp0YWtlb2ZmXzAuOC42OF94NjQtc2V0dXAuZXhlCm4vRVJtODlQejZZRTR0T2N3VkxTMnBvdEY1aFZQeFNqMEo5dGtUUFBtVDZ2ZytBWm5KeExpR1pnY0s5M0NzOWh3ZGtKNjFpb2M5ZWlxMGQ0dW90bERnPT0K",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.68/EZtakeoff_0.8.68_x64-setup.exe"
     }
   }
 }
