@@ -1,11 +1,11 @@
 {
-  "version": "0.8.63",
-  "notes": "The box under Take Off Measurements is now in three small tabs: Item (name, type, qty, material, tags, icon), Style (colour, opacity, line, ends, shape, size) and Caption (show, turn, font, size, text colour). The bar under the toolbar is gone, and Record and New Sub-item are on the right-click menu. Pipe labels can be turned by hand, stay where you left them in Bluebeam, follow the pipe colour, and are off until Show Caption is ticked. Right-click Sort puts pipe first, then each kind of fitting. A minimised drawing window comes back on the monitor it was on. Claude can work in every open EZtakeoff window.",
-  "pub_date": "2026-11-13T14:48:31.580Z",
+  "version": "0.8.64",
+  "notes": "Copy and paste marks on the drawing: pick counts and pipe runs, Ctrl+C, then point the mouse anywhere on any drawing (in any window) and Ctrl+V pastes them there, in the same items, at their real size. Right-click Paste puts them where you right-clicked; Paste into New Items makes new items. Picked marks can be dragged from the main window into an undocked drawing window: they move there, or hold Ctrl as you let go to copy them.",
+  "pub_date": "2026-11-13T15:30:51.907Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3JRU1hMZkhibStFcnZlNjdielJZbFc2SDJKcHpvSnl2YWptbzRya25wblZYOFZ4UDdudDZ2YTJaN0htWHZOdnBLTjUxdFNzWnF1OUlsYWIwRER1dWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTgxMzA2CWZpbGU6RVp0YWtlb2ZmXzAuOC42M194NjQtc2V0dXAuZXhlCjVNRjNtWWRjdDF2eUhSKzFlMDF4RXRIbXN4bUxyVTA4bXZkZDNGVEVzUk9HOFFsZk0wK09rMTdqeFhYRmtTN0dTc0JVczBvblQ1V0xnOFJuVzZPWEJnPT0K",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.63/EZtakeoff_0.8.63_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3R2cTZ6V2swZUd1UjdBbGF1dkxwK2lRbE5rNmNnQmhESEZheFpnVHRiLzh2a0lLdFJlRW5PSitxWnAydGlaOGNIZ2FmVjZOdWVhZW50RWxpeTU2dXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTgzODQ2CWZpbGU6RVp0YWtlb2ZmXzAuOC42NF94NjQtc2V0dXAuZXhlCnk5eWJ0aVNoemYrczBYR2dldXd5THNFbnNDamp2R2YraGNkaDZyZDZ1YWZYMEVDQlY3cjN4cmRVVFF6UGJZTGdsVWFwUXMxZHFzVHVGZVVxNzAzc0N3PT0K",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.64/EZtakeoff_0.8.64_x64-setup.exe"
     }
   }
 }
