@@ -1,11 +1,11 @@
 {
-  "version": "0.8.68",
-  "notes": "You can answer Claude's questions right on the note: double-click a pink question (or right-click > Answer...), type your answer and press Enter. Your answer shows under the question, the bottom bar counts only the ones not answered yet, and Claude reads your answers.",
-  "pub_date": "2026-11-13T22:41:52.820Z",
+  "version": "0.8.69",
+  "notes": "Notes for Claude and answers to Claude's questions are typed straight into the note, with no pop-up. The note grows to fit the text, and a click on empty drawing saves it and lets it go. The For Claude tool stays on for the next note until Esc.",
+  "pub_date": "2026-11-13T23:25:21.585Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3RkMVRYd2QxeDBMVVpRYlhKSCtMaGRCTzR4a0FTM1FPVldaOUpkalNBQUk4RU5JRHJoNDkxQnBZUTYzdFh4UFQ3R09MREt6ZEVGbUgyWTFGSVRlVVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjA5NzA1CWZpbGU6RVp0YWtlb2ZmXzAuOC42OF94NjQtc2V0dXAuZXhlCm4vRVJtODlQejZZRTR0T2N3VkxTMnBvdEY1aFZQeFNqMEo5dGtUUFBtVDZ2ZytBWm5KeExpR1pnY0s5M0NzOWh3ZGtKNjFpb2M5ZWlxMGQ0dW90bERnPT0K",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.68/EZtakeoff_0.8.68_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2pyOWhNdXNyZmdQc0FhSFNyYndxSW84UEZGZ0ovVTNwK3F6cUF2RzEydXVEN3J5dm9ya1A0cEQxY1NBUzFDSnYxbkVsbWVZbFMvTy9FeUdwQUVhS0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjEyMzE2CWZpbGU6RVp0YWtlb2ZmXzAuOC42OV94NjQtc2V0dXAuZXhlCnJKRXpmNlN2NS8wZXV6S2dIek55cGJmWjFvaG41cUZienhVTUhHMi8vUUJYUHVDcjN6UXUvNGpEQVMyMCtocTZBWkRyMDFnTWVTRFEvQUZhRDNVaURnPT0K",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.69/EZtakeoff_0.8.69_x64-setup.exe"
     }
   }
 }
