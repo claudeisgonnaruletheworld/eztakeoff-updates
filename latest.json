@@ -1,11 +1,11 @@
 {
-  "version": "0.8.61",
-  "notes": "For Claude: it lists every break along a pipe (couplings, set ups and downs, branches, drops, ends), checks fittings against the drawing itself, follows a tag's leader line to its pipe, traces a big system run by run, and can take pictures without the length labels. Claude's questions now show as numbered pins, and the bottom bar takes you to each one. View > Lines Underneath shows the drawing's own lines that Claude reads. Settings > Templates folder can keep your templates and Claude's rules on OneDrive so both PCs share them.",
-  "pub_date": "2026-11-13T06:07:22.917Z",
+  "version": "0.8.62",
+  "notes": "Export PDF for Bluebeam now adds Bluebeam's Order column to every count and pipe (each item's place in Take Off Measurements, 1, 2, 3... on each sheet) and a legend at the bottom right of each sheet: Order, Description, Quantity and Unit under the folder's name. If Bluebeam shows the Order column blank, type in one cell and the rest appear.",
+  "pub_date": "2026-11-13T11:55:25.067Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3RGOXNHR0JuSVRaN0d3bUJHd3IrZldUWnNGUnNiQmxkdHhuQUZ1WHkxd0dCL2U1blZKeHBtdnpHYXVsY0tDOG8vN3JiNWNoVVB0T1Q1QlNkQW9EcFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTUwMDM2CWZpbGU6RVp0YWtlb2ZmXzAuOC42MV94NjQtc2V0dXAuZXhlCm5wRFhkWVVnTlo2Tk1YUVZrbnYrZHptM3RtRGxsVzIzb1JIWjRBRFBzYzYxbkFucnhNRUh6N29zak4rRHJvNHo0K09iQ01tWDZPTlVXVXBFL2JGWERRPT0K",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.61/EZtakeoff_0.8.61_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3YrSFJYTFUzU2dZa05ldXNrdEdDTjVCSCtIeGdaSTZyUGN1c0FpS1Z4NVR6M2VkU3Y1Z2U0cVQxTFpsNkw0SnVnQzdjb2xLOU5lMVVCRDh1S2hxUlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTcwOTE4CWZpbGU6RVp0YWtlb2ZmXzAuOC42Ml94NjQtc2V0dXAuZXhlCitOMHpqR3FJT0V5TmsxVDdZOGFlS1g5d0pRdC9ESUM2VlRMMXVPdGdndFE0VUNFUUd0ZVgzbW1mUjdaNURaalphSU9oa1VMckR2ZExQMElpOFRzeEJnPT0K",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.62/EZtakeoff_0.8.62_x64-setup.exe"
     }
   }
 }
