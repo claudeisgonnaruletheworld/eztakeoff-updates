@@ -1,11 +1,11 @@
 {
-  "version": "0.8.70",
-  "notes": "Claude can move or take off one mark (a single click or run point) instead of a whole group, and sees every click numbered. Claude can put a click beside a mark already there, e.g. a coupling level with its elbow, just off the pipe. Claude can ask what you added, moved or took off by hand since it connected. After an update, Claude reconnects by itself and sees new tools, without a restart.",
-  "pub_date": "2026-11-14T11:36:30.977Z",
+  "version": "0.8.71",
+  "notes": "A cleaner look in the app icon's blue and gold, with a Light theme under Settings > Look. Settings is one page that scrolls. New: View > Legend shows each page's colours on screen, and File > Export Quantities PDF… saves a quantities sheet. Toolbar labels shrink to icons on a narrow window, and tips show in the bottom bar. Menu labels use Capital Words and QtyF shows as ×. Claude's tools are fewer and simpler (old names still work). A click on empty drawing now turns For Claude off too.",
+  "pub_date": "2026-11-14T15:09:07.789Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3NvNEVpVXJjZ0Z6VmhDTHBZeTNEUHpOWUtndzJnVFpNY2FLYmt2aWt4Mm8rVXVaTkpUOEwzSXNvRWJBVUlpNnVkWENlckE3WkZlbmpBeWhQK3FFWlE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjU2MTg1CWZpbGU6RVp0YWtlb2ZmXzAuOC43MF94NjQtc2V0dXAuZXhlCmNEdTFPdDNoQVRsL0NlMDNyNjJGejZQOXVaVVVDNTd3L0pqRzNWU1dtOU1UY0l0ZitHUmtmNTFScUY2ZkRtVlBPemJUUnVweEtXUURUTXp3TzZMY0RnPT0K",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.70/EZtakeoff_0.8.70_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N21YQXZCSXQ5c2xHYVNYem9UZkJxT2pUWFU4U1ExT0diajd6ZUtEVzh4SlN2aHk0dm1RM21zdy9zY2N2Y0U4K3VCSWxYNGZBeGpoMU04UmRBR3VlN1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjY4OTQxCWZpbGU6RVp0YWtlb2ZmXzAuOC43MV94NjQtc2V0dXAuZXhlCllRM28yUE1yVi9GdjRVZS92WEEvYkJtQ1JWNWZndnZWVnBOeHhiQ0ZGOFhKbG05eVVPL3RRTWJtc1NCSnNFL3p2MndOUGZzQnd0Ni8rc1U0Z1V0RkRnPT0K",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.71/EZtakeoff_0.8.71_x64-setup.exe"
     }
   }
 }
