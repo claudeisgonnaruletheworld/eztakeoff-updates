@@ -1,11 +1,11 @@
 {
-  "version": "0.8.72",
-  "notes": "Nine themes to pick from under Settings > Themes: Night, Blue and Gold, Graphite, Blueprint, Copper, Teal, Light, Classic and Paper. The app now starts in Night; pick another there and Save keeps it. A few colours that stayed orange from the old look now follow the theme.",
-  "pub_date": "2026-11-14T15:50:31.627Z",
+  "version": "0.8.73",
+  "notes": "Claude can follow a tag's arrow from a tag table to the pipe it points at, round bends and over crossings, and says when it can't. The app checks Claude's takeoff against the drawing before placing it (a point off the pipe, a run on a run, an elbow where the pipe carries on); if Claude places it anyway, a note is pinned for you (View > Hide Claude's Checks; tick off in Settings > Claude). Rules for Claude are back in Settings > Claude, for every kind of job and for each kind: type them in, drag them into order, or tick them in from a .txt or .md file. Rules for Claude on template fittings, and a kind of job for each job (New Job, File > Job Kind…). Notes for Claude can cover an area, and Claude's questions can point along a pipe, at several spots or round an area, with answer buttons.",
+  "pub_date": "2026-11-14T17:11:10.271Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3M0T3lPMThTZWhESDV2QVRBNzFUdWJWWGxOMVhGL2ZHR0lIZXp6NmJ0SjBJenM2NzFQQ2xJRGZZeEFWMndlQVA4NHdZaFJBV29JTDlwL1hjdWliOUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjcxNDI2CWZpbGU6RVp0YWtlb2ZmXzAuOC43Ml94NjQtc2V0dXAuZXhlCisySEI3VWRQblBmWGwzc29JOEpia09YeGlidzh1UDc2WXpJclFFajZ3NS9OeS96YmdLTDFPakN0SHN5QzFML0lUempBL1lGaVlqTWx0WkMxQ2lYZUNnPT0K",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.72/EZtakeoff_0.8.72_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3BBY1FzRW5uVDJJWjFMWGs0SVBlMDN1em80Y2VLbU16NkdCOHcrK3BFTzN5d3ZSZ2FYeDdtc0Y1eFlHTTlFQXhEVmNBbjErMVFNTkZUUUFoWmxPb2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Njc2MjYzCWZpbGU6RVp0YWtlb2ZmXzAuOC43M194NjQtc2V0dXAuZXhlCm4wQXRkUUZ5YzU4KzUvZUM5STJuZkx1bm5kdVJ5RmExNUtDbkpPYjdVYlQ1REI4Y2hMZTgzczZEckgxVjA3bURCK0pNdGZpbDViV1NDUWZHK0JITEJ3PT0K",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.73/EZtakeoff_0.8.73_x64-setup.exe"
     }
   }
 }
