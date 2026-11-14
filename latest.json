@@ -1,11 +1,11 @@
 {
-  "version": "0.8.76",
-  "notes": "Rules for Claude now show as one Rules row in Properties; View Rules opens a window with every rule in full, where it comes from and who last edited it. The elbow check now looks only for a pipe continuing past the corner, so a short stub to a cap (a rodding eye) is caught and plain bends no longer raise false alarms. When Claude places something against a drawing check, one record note per page is left, clear of the pipes. With a note selected, a middle-click on the drawing adds a pin to it (a middle drag still pans). Also: the pipe at an arrow tip is named correctly where a pipe ends at a cap, drop or tee, and pages in a folder whose parent folder is missing are no longer left out.",
-  "pub_date": "2026-11-14T19:36:27.936Z",
+  "version": "0.8.77",
+  "notes": "Claude now takes off one pipe run at a time: it places a run with its fittings, reviews it on the drawing, and only then starts the next run. Its questions are pinned on the fittings and pipes it has placed, after it has reviewed them, and it carries on without waiting for the answer. Both can be turned off in Settings > Claude. The Night theme is now dark red, and Settings > Themes has an Accent Colour picker, kept for each theme. The Magnifier button on the bottom bar is now Select Filter: a box drag can pick only counts, pipes or notes, and notes can now be picked, moved and deleted with a box (the magnifier stays on M).",
+  "pub_date": "2026-11-14T21:43:33.876Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N21YTENUVWMwaXdsYy9ZeFVlalVYZlpjRWNBcXFmRWVubmJsMlhEVHA3UlJoaENwYkE5TlFXbkp4VzFUbExMVFoyUzZ0ZCtFOXZobnp5R2REcktobkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Njg0OTgxCWZpbGU6RVp0YWtlb2ZmXzAuOC43Nl94NjQtc2V0dXAuZXhlCjh1QlcrMjNtaXozY1pLVC9jdGFxdWRQWnBqYWd2RUdsT3dPZU90K2NNajBVYnA4ZWdoUTFGZzljQkptL0ppYUk1UFpKWEFHS3N4NFpuZ1pnSWxnSkFnPT0K",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.76/EZtakeoff_0.8.76_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N20vaFdQS0VkUkl6WGtJTlZwMUV3WW1PREpGQXJzZ1BocDZORUNzRzkwajZiRU5Bemdsd1pFd2tRRDM0QlNpdERadjNjL2xzTFpQL2t5TDZtVEZsSlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjkyNjA3CWZpbGU6RVp0YWtlb2ZmXzAuOC43N194NjQtc2V0dXAuZXhlCkdTd2IwT3JiL2h3S0JnMkU5cWxOVVlUOTJxRERJRmtNQXI5MytoNW55M0wvNnBiRDl1QW85ZmszaG9aaXl0VU5jTTVpc2RwT2MwZGVlMDJrZUkwdEJRPT0K",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.77/EZtakeoff_0.8.77_x64-setup.exe"
     }
   }
 }
