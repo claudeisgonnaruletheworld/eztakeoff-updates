@@ -1,11 +1,11 @@
 {
-  "version": "0.8.77",
-  "notes": "Claude now takes off one pipe run at a time: it places a run with its fittings, reviews it on the drawing, and only then starts the next run. Its questions are pinned on the fittings and pipes it has placed, after it has reviewed them, and it carries on without waiting for the answer. Both can be turned off in Settings > Claude. The Night theme is now dark red, and Settings > Themes has an Accent Colour picker, kept for each theme. The Magnifier button on the bottom bar is now Select Filter: a box drag can pick only counts, pipes or notes, and notes can now be picked, moved and deleted with a box (the magnifier stays on M).",
-  "pub_date": "2026-11-14T21:43:33.876Z",
+  "version": "0.8.78",
+  "notes": "New: Takeoff > Drawing Grids lines your drawings up by the building's grid. The app finds the grid lines and their names on each drawing by itself, shows which drawings line up with each other and how closely, and flags a drawing whose scale disagrees (with a button to match it). You only check and confirm. Names that are not text on the drawing are worked out from the lines beside them or typed into their tag; a scanned drawing is lined up by clicking two grid crossings. On a confirmed grid, the bottom bar shows where the mouse is from the nearest grid crossing (for example D/11 1.35 m towards 12, 1.93 m towards E), the same on every drawing for the same place in the building.",
+  "pub_date": "2026-11-15T00:54:46.075Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N20vaFdQS0VkUkl6WGtJTlZwMUV3WW1PREpGQXJzZ1BocDZORUNzRzkwajZiRU5Bemdsd1pFd2tRRDM0QlNpdERadjNjL2xzTFpQL2t5TDZtVEZsSlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjkyNjA3CWZpbGU6RVp0YWtlb2ZmXzAuOC43N194NjQtc2V0dXAuZXhlCkdTd2IwT3JiL2h3S0JnMkU5cWxOVVlUOTJxRERJRmtNQXI5MytoNW55M0wvNnBiRDl1QW85ZmszaG9aaXl0VU5jTTVpc2RwT2MwZGVlMDJrZUkwdEJRPT0K",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.77/EZtakeoff_0.8.77_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3F2SnllWmVTRmoyNHdqRDBtYWJmSDRPT1JtbVNNUGhwa052U0g3YXl0Q2tHOGdjSXUvMEpBazNkcnkybDBlL3J1TnpGQ1VIcFVRbnNObzNyUFhOYVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzA0MDc5CWZpbGU6RVp0YWtlb2ZmXzAuOC43OF94NjQtc2V0dXAuZXhlCjlORDI1NXhXdytxVjBrSE1heXNab3ZBalpIZnRML0plK3J3M2RqZ1gyNE1Yd3YrZzd1THhjcDFMVWxWRUdud0RZTXhrc1gwRWVvcENiTTN6OUpPYkN3PT0K",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.78/EZtakeoff_0.8.78_x64-setup.exe"
     }
   }
 }
