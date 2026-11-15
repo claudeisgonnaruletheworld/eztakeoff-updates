@@ -1,11 +1,11 @@
 {
-  "version": "0.8.90",
-  "notes": "New Sheet: Add Area now opens the drawing itself. Drag a box round the part you want (such as part of the title block) and the window comes back with it, copied exactly as dragged. Change Area and Remove Area are on each drawing row.",
-  "pub_date": "2026-11-15T18:10:33.241Z",
+  "version": "0.8.91",
+  "notes": "Combined drawings: Edit Full Size opens the plan over the whole window, sharp at any zoom. Each drawing now has a frame in place of the cut lines: drag its handles to show more or less of it, add small frames of any size for one drawing, and use Show Only (or keys 1 to 9) to see one drawing by itself.",
+  "pub_date": "2026-11-15T19:13:33.475Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3F2NjhiY0NzTDB5NUJsa3ljRmNvT3R6d1hIZjBuTlJpSVlEYjZHV1lvWTZZV1lEK1p4Y2dkSmRvS25VOENDWnE0dXNzUnR5STRiSUhGNGo0YXdDbXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzY2MjI4CWZpbGU6RVp0YWtlb2ZmXzAuOC45MF94NjQtc2V0dXAuZXhlClhVQVZCOHprN1R6SWJRU2UyejhmN2JlQ0p5UkRhYkcrSnZmTTBPdHBZQUtyUENuTWI4QWVjODZ0bW5zdmUxMkpuenRkT3RWL3FiUFpTNFE2SkpGUkN3PT0K",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.90/EZtakeoff_0.8.90_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2l5WGcrOC9INlJoS2pLWXFjYkp5RGtpNk5MQjBDaTNzYUVBWUxCNVUzWGM4eUZBSVE3eCtVcnRRMGJoVVBDTVY0WThxTVRsYkFmTnhmaTd4VnVxQndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzcwMDA3CWZpbGU6RVp0YWtlb2ZmXzAuOC45MV94NjQtc2V0dXAuZXhlClVqKzBUTUVML3Jpc1ErQlFTaklORU5PS09pQTZUcUtWUDkvTDRQbEpNSGxJai9jWmR1RkFET09YRFBqeU5lZXZSUFhLMG9zS0t1bmxBc1FQMk5uN0NnPT0K",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.91/EZtakeoff_0.8.91_x64-setup.exe"
     }
   }
 }
