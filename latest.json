@@ -1,11 +1,11 @@
 {
-  "version": "0.8.86",
-  "notes": "New: split view can be split again, up to four drawings. Drag the bar between two drawings to resize them, or double-click it to make them the same size. Link by Grid now links every drawing on screen that shares grid lines, including drawings in their own windows. Fixed: legends on a combined drawing keep the whole title-block column, down to the title boxes. Make the combined drawing again to get the change.",
-  "pub_date": "2026-11-15T14:59:16.735Z",
+  "version": "0.8.87",
+  "notes": "New: when making a combined drawing, drag the plan in the preview to move it on the sheet. The legends grow into the room it leaves, and Reset Plan Position puts it back. The New Sheet window now shows only the notes that need something done.",
+  "pub_date": "2026-11-15T15:34:36.601Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3NpRTRlbWtjbmI0WVpUeldJYkJRck9lSGtTdjNpblVveFZMd1A3bjJ5RFRBOWJxbDJTelJMeVFVWFcxSm5Uc0IwbTA5VEFQaEdPbENLRk5uWVBEQ0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzU0NzUxCWZpbGU6RVp0YWtlb2ZmXzAuOC44Nl94NjQtc2V0dXAuZXhlCllnekcwMHVGLzYzdzFFWjBvOWJzYWVlV3hHdVBseEY0czhxaVhoWTZBU013c1ZBYm10amNhWnVaT3ZhVzJCWWI1WUJJMTNxcCtHdE5sdFBaNThmNkFRPT0K",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.86/EZtakeoff_0.8.86_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2pSVjNqNnBseWNMZHowTUhqd3N5K240YlM1RS9rejVwSDN5MWUwTzNVY3l0dnpPa0JrWXJEOFFmODdyZTF0N1FEQ3BoYWZ4SksrTlYwTnh2UURUeGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzU2ODcwCWZpbGU6RVp0YWtlb2ZmXzAuOC44N194NjQtc2V0dXAuZXhlCmYwS3RqUzhwbyt2YzJRYlNVVDdDOTFuK0xvRVRla2VRUFJWRy9EUUhqbkY1NmJiUUNJcTFTVkIxalQxck9QSGRaZkVOZ1dFSExibys1OXdGSlFWMEF3PT0K",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.87/EZtakeoff_0.8.87_x64-setup.exe"
     }
   }
 }
