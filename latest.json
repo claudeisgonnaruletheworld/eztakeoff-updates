@@ -1,11 +1,11 @@
 {
-  "version": "0.8.88",
-  "notes": "Combined drawings stay sharp without lagging when you zoom in (make the combined drawing again to get the faster one). In split view with Link by Grid on, changing the drawing in one view no longer resets the others: the drawing just opened goes to the same grid place.",
-  "pub_date": "2026-11-15T16:56:45.841Z",
+  "version": "0.8.89",
+  "notes": "Legends on combined drawings are copied as sharp pictures of just the part you pick, so the sheet is lighter. In New Sheet, Add Area then Zoom In shows the area big and sharp, so you can mark only part of a title block.",
+  "pub_date": "2026-11-15T17:46:36.744Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2hSU3JmSXhjUkVlQll5dWFFRUJ4QS9sWUdIalYvNzhkbFpRbitoUHZmQTJGV3NPVWJSa3dFL1R2YmpLZmczbWZXSjUxTGkrak84T3NkUXJWWXRsK3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzYxODAwCWZpbGU6RVp0YWtlb2ZmXzAuOC44OF94NjQtc2V0dXAuZXhlCklSTk9sSHI4UzgwRitqL3BiNkd4L3hDWGQrMmRBd2tuUUZ6NG9OTDQyVjNXNVE0UFgyRHdUYXNkdDIwU0M3d1JKWW5Xck5kS2VxazZiS1Vqczg1a0JBPT0K",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.88/EZtakeoff_0.8.88_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2k3U05KalRIUTJRaHpTemJtaHYwU1ZsSWVoR1VzUHEwdVBaWDlyalJWM0dJT2ZVWmRZUkZjV1EvMzhTbUNQZVdZTjVodXhTYXh0eTI2dEVJWnNVSVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzY0NzkwCWZpbGU6RVp0YWtlb2ZmXzAuOC44OV94NjQtc2V0dXAuZXhlCld2ZG5QOWZvaVArdnlVSlVxR0ZnZFlGajJsSWZRNjVxc2pIQytORnNhWDdQd2UwTFNNQWpFVzZKcjg0KzlxZlBCeWxrTldZUVFkRy9td3hBSDVUWERRPT0K",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.89/EZtakeoff_0.8.89_x64-setup.exe"
     }
   }
 }
