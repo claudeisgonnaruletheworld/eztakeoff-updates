@@ -1,11 +1,11 @@
 {
-  "version": "0.8.80",
-  "notes": "New: Link by Grid in split view. Open two drawings side by side, confirm both grids in Takeoff > Drawing Grids, then turn on Link by Grid next to the split buttons (or View > Link Split View by Grid). Moving or zooming either drawing moves the other to the same place on the grid at the same size, and an orange pointer shows where your mouse is on the other drawing. Where that place is not on the other sheet, it stays still and the status line says so. Also: grid names are found at the far end of lines that stop short of their bubble, a grid line drawn off its spacing is named in the list and left out of the lining up, and Number From Here keeps names read from the drawing.",
-  "pub_date": "2026-11-15T02:11:27.649Z",
+  "version": "0.8.81",
+  "notes": "New: combined drawings lined up by grid. In File > New Sheet, choose Lined up by grid (or right-click a drawing with a confirmed grid > New Sheet Matching This Drawing). The drawings that split a floor are placed by their grid on a twin of the drawing they match, at the same paper size and scale, and cut where they meet. Move a cut by dragging it or with the arrow keys, make it follow a line drawn on either drawing, or show an overlap from one drawing. Each join shows how closely the drawings agree in mm. Pick Run, Find Text and Claude's tools read only what shows on the combined drawing.",
+  "pub_date": "2026-11-15T10:45:30.205Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2hQUnIyZG5mQjRiVVYzSVdFRUxWbHFubnplRTRtN0ZrTTQ1Q210T2NUcGcwNlB1QWJwcmxXT0htcXlCeXFlZlhTMGhQTFBBMDV5VHpHWEMveEV1YUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzA4NjgxCWZpbGU6RVp0YWtlb2ZmXzAuOC44MF94NjQtc2V0dXAuZXhlCmZHanc5Y0w3Z05jVVIvcnR3bFdiNm55K2FZcG43RjZ3RmVqN05YMm0xd005RmFTYmJxNmF3aDdpQ0RtQmhjZzlZRi9pS2Ixck1jTnpsSDF1c3ZUZUNBPT0K",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.80/EZtakeoff_0.8.80_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2c2amhkQmhSRDMrRzR6TGJYSW5PMmxVam5JNmFudDNWeWo4ZUlCY1c2bk01OU5nRElTVXNjeThhTWdIeHg3Q0tsb2pyVDdsWnJUbGIrdDhzZ2g4SXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzM5NTIzCWZpbGU6RVp0YWtlb2ZmXzAuOC44MV94NjQtc2V0dXAuZXhlCk5jTlpTWGtPcU9QU1dqMkZ0eFEraGVHZ2Vhcm92czJySjUrZWFHcUZ1QUVubzdVdjBlWHFKdlViUEgwOFB2ZHd3TExNNlkzU2E0SUNsd25GNmtRZURBPT0K",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.81/EZtakeoff_0.8.81_x64-setup.exe"
     }
   }
 }
