@@ -1,11 +1,11 @@
 {
-  "version": "0.8.78",
-  "notes": "New: Takeoff > Drawing Grids lines your drawings up by the building's grid. The app finds the grid lines and their names on each drawing by itself, shows which drawings line up with each other and how closely, and flags a drawing whose scale disagrees (with a button to match it). You only check and confirm. Names that are not text on the drawing are worked out from the lines beside them or typed into their tag; a scanned drawing is lined up by clicking two grid crossings. On a confirmed grid, the bottom bar shows where the mouse is from the nearest grid crossing (for example D/11 1.35 m towards 12, 1.93 m towards E), the same on every drawing for the same place in the building.",
-  "pub_date": "2026-11-15T00:54:46.075Z",
+  "version": "0.8.79",
+  "notes": "Drawing Grids: a drawing can no longer get stuck at Searching. Only the drawing being searched shows Searching, the others show Waiting, and a drawing that can't be searched shows Search Failed with the reason and Search Again. New: right-click a grid line > Number From Here to name that line and every line after it in order (1, 2, 3 or A, B, C) from a start you choose, in the direction you choose, optionally skipping I and O. Claude can now use every part of Drawing Grids: search, name and number lines, add or remove lines and crossings, confirm, match scale and matching names, each undone with one Ctrl+Z.",
+  "pub_date": "2026-11-15T01:38:44.170Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3F2SnllWmVTRmoyNHdqRDBtYWJmSDRPT1JtbVNNUGhwa052U0g3YXl0Q2tHOGdjSXUvMEpBazNkcnkybDBlL3J1TnpGQ1VIcFVRbnNObzNyUFhOYVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzA0MDc5CWZpbGU6RVp0YWtlb2ZmXzAuOC43OF94NjQtc2V0dXAuZXhlCjlORDI1NXhXdytxVjBrSE1heXNab3ZBalpIZnRML0plK3J3M2RqZ1gyNE1Yd3YrZzd1THhjcDFMVWxWRUdud0RZTXhrc1gwRWVvcENiTTN6OUpPYkN3PT0K",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.78/EZtakeoff_0.8.78_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3VIT2R5SDExdkhNUkJPdXFKdUdibTk2OVFsb3Zya0twNDFUamltelRZTFMxb2RVT1g2dDlzdUMrUkxVaEp0SHNYTi92dzZHMVZuWlNFZGQ5ZlgyL3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzA2NzE5CWZpbGU6RVp0YWtlb2ZmXzAuOC43OV94NjQtc2V0dXAuZXhlCjZ2K3JsNEkrbTBHaFl0L09VVnFYTEQ1Z1NHUm12bWJVTmp0cHhpN3VHSzFPL1JOR3gxNXphdEwyZEJPSEdrNCtaWFVNRm9LUStidkJBS2pJRHNLTERRPT0K",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.79/EZtakeoff_0.8.79_x64-setup.exe"
     }
   }
 }
