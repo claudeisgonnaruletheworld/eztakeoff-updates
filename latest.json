@@ -1,11 +1,11 @@
 {
-  "version": "0.8.92",
-  "notes": "A combined drawing can be edited again after it is made: right-click it in Pages and choose Edit Combined Drawing…. Change the frames, then Save Changes redraws the sheet in place. Takeoff, notes and legends on it are kept, and Ctrl+Z puts the old version back.",
-  "pub_date": "2026-11-15T20:18:15.529Z",
+  "version": "0.8.93",
+  "notes": "Claude reads the drawing along a pipe run before placing it: measure now says what is drawn along the line (notes with arrows on it, word for word, the pipe drawn under it and its width in mm, other pipes and marks), and a new run is placed only on a line the chat has read. A run is held when a note on it gives another size, or when the drawn width changes along it. Settings > Claude can turn this off.\nPipe-only takeoffs no longer need a fitting at every corner: Claude states \"pipe only\" or \"pipe and fittings\" with your words before its first run. One pipe run at a time stays.\nClaude's reads of a drawing run in the background, one at a time, so the window never stops responding; app_status says what's running; Claude is told to send one call at a time.\nEach Claude chat works in a drawing view of its own: its pictures are drawn off screen, and on your screen only when asked, never in a view another chat is using.",
+  "pub_date": "2026-11-15T22:49:28.375Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2xBbVRVa2JNY2hFekErd004UHdyMVV1MW02cjZYRXV4UlAyVFBRVnpJN0VTYkFNSlREUUlhaVFxVGZ1U2R3UlV0ZDdqNWl2UlhEKzkzNlFrazhQY2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzczODg5CWZpbGU6RVp0YWtlb2ZmXzAuOC45Ml94NjQtc2V0dXAuZXhlCnlRWExiemJlTjQyRCtmWnRVTm5qNVlnRFFzQlhrSWI5aEo5SDlIcGhwQzlRZUdobFQwaysrakk1cXFTMmRYTHVpU3NyVDVwUHBYRHJEWE5MS1gzOURRPT0K",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.92/EZtakeoff_0.8.92_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3RqOGRLTXFLcTRaaXFkQVl0ZlFBLzJGbVBBbnJpNGFtME55aEt5Z3NMb0tWeVoxei9mdmEzc0V6N2xlczZsOUZDZzEybldycmpjdVZjZUV5Y1YvbmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzgyOTYyCWZpbGU6RVp0YWtlb2ZmXzAuOC45M194NjQtc2V0dXAuZXhlCmxLdXYrV0dFa0EvSU1xY1JQTUV6Y1ptZjJpcmpzcDFpUmdpNDh5YUxVMCtVZ0lodXp4SWNoTmRxYjlQWGhCUlNrWVYvSGo3MTdsZk83UkV0UDZQekJRPT0K",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.93/EZtakeoff_0.8.93_x64-setup.exe"
     }
   }
 }
