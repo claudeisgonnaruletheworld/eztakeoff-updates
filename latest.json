@@ -1,11 +1,11 @@
 {
-  "version": "0.8.87",
-  "notes": "New: when making a combined drawing, drag the plan in the preview to move it on the sheet. The legends grow into the room it leaves, and Reset Plan Position puts it back. The New Sheet window now shows only the notes that need something done.",
-  "pub_date": "2026-11-15T15:34:36.601Z",
+  "version": "0.8.88",
+  "notes": "Combined drawings stay sharp without lagging when you zoom in (make the combined drawing again to get the faster one). In split view with Link by Grid on, changing the drawing in one view no longer resets the others: the drawing just opened goes to the same grid place.",
+  "pub_date": "2026-11-15T16:56:45.841Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2pSVjNqNnBseWNMZHowTUhqd3N5K240YlM1RS9rejVwSDN5MWUwTzNVY3l0dnpPa0JrWXJEOFFmODdyZTF0N1FEQ3BoYWZ4SksrTlYwTnh2UURUeGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzU2ODcwCWZpbGU6RVp0YWtlb2ZmXzAuOC44N194NjQtc2V0dXAuZXhlCmYwS3RqUzhwbyt2YzJRYlNVVDdDOTFuK0xvRVRla2VRUFJWRy9EUUhqbkY1NmJiUUNJcTFTVkIxalQxck9QSGRaZkVOZ1dFSExibys1OXdGSlFWMEF3PT0K",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.87/EZtakeoff_0.8.87_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2hSU3JmSXhjUkVlQll5dWFFRUJ4QS9sWUdIalYvNzhkbFpRbitoUHZmQTJGV3NPVWJSa3dFL1R2YmpLZmczbWZXSjUxTGkrak84T3NkUXJWWXRsK3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzYxODAwCWZpbGU6RVp0YWtlb2ZmXzAuOC44OF94NjQtc2V0dXAuZXhlCklSTk9sSHI4UzgwRitqL3BiNkd4L3hDWGQrMmRBd2tuUUZ6NG9OTDQyVjNXNVE0UFgyRHdUYXNkdDIwU0M3d1JKWW5Xck5kS2VxazZiS1Vqczg1a0JBPT0K",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.88/EZtakeoff_0.8.88_x64-setup.exe"
     }
   }
 }
