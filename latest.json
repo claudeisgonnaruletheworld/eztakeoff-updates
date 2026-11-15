@@ -1,11 +1,11 @@
 {
-  "version": "0.8.85",
-  "notes": "Fixed: legends on a combined drawing now come out tight and at one size. Each area is trimmed to its column, so no white paper or border line is copied, and columns of about the same height are made exactly the same height. Grid lines on a combined drawing are now drawn whole, from name to name. Make the combined drawing again to get the change.",
-  "pub_date": "2026-11-15T14:42:05.315Z",
+  "version": "0.8.86",
+  "notes": "New: split view can be split again, up to four drawings. Drag the bar between two drawings to resize them, or double-click it to make them the same size. Link by Grid now links every drawing on screen that shares grid lines, including drawings in their own windows. Fixed: legends on a combined drawing keep the whole title-block column, down to the title boxes. Make the combined drawing again to get the change.",
+  "pub_date": "2026-11-15T14:59:16.735Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2tqek9Kb2VaRlJWZ0U3bUxOTTJrSXphTFIwR1hRamx3N28xa3FCUTZlc0pzcVUvZDVnVXo2TmZhRmNHWmZZRWlHODdnOGpCdlZEd3pIMlZMT0o2REE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzUzNzE5CWZpbGU6RVp0YWtlb2ZmXzAuOC44NV94NjQtc2V0dXAuZXhlCmdUbXFHREQvYWhjOWQ5V2pIci9XRDNTdUFNK3RVYSt4L2pWMjdBOFdvNVVBQUFMVk51Yk95S3RnRW1PdmpBSkltSlA1aDJpamprZ1Z1dHNEbThkQkNRPT0K",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.85/EZtakeoff_0.8.85_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3NpRTRlbWtjbmI0WVpUeldJYkJRck9lSGtTdjNpblVveFZMd1A3bjJ5RFRBOWJxbDJTelJMeVFVWFcxSm5Uc0IwbTA5VEFQaEdPbENLRk5uWVBEQ0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzU0NzUxCWZpbGU6RVp0YWtlb2ZmXzAuOC44Nl94NjQtc2V0dXAuZXhlCllnekcwMHVGLzYzdzFFWjBvOWJzYWVlV3hHdVBseEY0czhxaVhoWTZBU013c1ZBYm10amNhWnVaT3ZhVzJCWWI1WUJJMTNxcCtHdE5sdFBaNThmNkFRPT0K",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.86/EZtakeoff_0.8.86_x64-setup.exe"
     }
   }
 }
