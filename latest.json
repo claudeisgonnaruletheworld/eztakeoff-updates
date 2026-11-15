@@ -1,11 +1,11 @@
 {
-  "version": "0.8.79",
-  "notes": "Drawing Grids: a drawing can no longer get stuck at Searching. Only the drawing being searched shows Searching, the others show Waiting, and a drawing that can't be searched shows Search Failed with the reason and Search Again. New: right-click a grid line > Number From Here to name that line and every line after it in order (1, 2, 3 or A, B, C) from a start you choose, in the direction you choose, optionally skipping I and O. Claude can now use every part of Drawing Grids: search, name and number lines, add or remove lines and crossings, confirm, match scale and matching names, each undone with one Ctrl+Z.",
-  "pub_date": "2026-11-15T01:38:44.170Z",
+  "version": "0.8.80",
+  "notes": "New: Link by Grid in split view. Open two drawings side by side, confirm both grids in Takeoff > Drawing Grids, then turn on Link by Grid next to the split buttons (or View > Link Split View by Grid). Moving or zooming either drawing moves the other to the same place on the grid at the same size, and an orange pointer shows where your mouse is on the other drawing. Where that place is not on the other sheet, it stays still and the status line says so. Also: grid names are found at the far end of lines that stop short of their bubble, a grid line drawn off its spacing is named in the list and left out of the lining up, and Number From Here keeps names read from the drawing.",
+  "pub_date": "2026-11-15T02:11:27.649Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3VIT2R5SDExdkhNUkJPdXFKdUdibTk2OVFsb3Zya0twNDFUamltelRZTFMxb2RVT1g2dDlzdUMrUkxVaEp0SHNYTi92dzZHMVZuWlNFZGQ5ZlgyL3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzA2NzE5CWZpbGU6RVp0YWtlb2ZmXzAuOC43OV94NjQtc2V0dXAuZXhlCjZ2K3JsNEkrbTBHaFl0L09VVnFYTEQ1Z1NHUm12bWJVTmp0cHhpN3VHSzFPL1JOR3gxNXphdEwyZEJPSEdrNCtaWFVNRm9LUStidkJBS2pJRHNLTERRPT0K",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.79/EZtakeoff_0.8.79_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2hQUnIyZG5mQjRiVVYzSVdFRUxWbHFubnplRTRtN0ZrTTQ1Q210T2NUcGcwNlB1QWJwcmxXT0htcXlCeXFlZlhTMGhQTFBBMDV5VHpHWEMveEV1YUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzA4NjgxCWZpbGU6RVp0YWtlb2ZmXzAuOC44MF94NjQtc2V0dXAuZXhlCmZHanc5Y0w3Z05jVVIvcnR3bFdiNm55K2FZcG43RjZ3RmVqN05YMm0xd005RmFTYmJxNmF3aDdpQ0RtQmhjZzlZRi9pS2Ixck1jTnpsSDF1c3ZUZUNBPT0K",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.80/EZtakeoff_0.8.80_x64-setup.exe"
     }
   }
 }
