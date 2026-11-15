@@ -1,11 +1,11 @@
 {
-  "version": "0.8.89",
-  "notes": "Legends on combined drawings are copied as sharp pictures of just the part you pick, so the sheet is lighter. In New Sheet, Add Area then Zoom In shows the area big and sharp, so you can mark only part of a title block.",
-  "pub_date": "2026-11-15T17:46:36.744Z",
+  "version": "0.8.90",
+  "notes": "New Sheet: Add Area now opens the drawing itself. Drag a box round the part you want (such as part of the title block) and the window comes back with it, copied exactly as dragged. Change Area and Remove Area are on each drawing row.",
+  "pub_date": "2026-11-15T18:10:33.241Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2k3U05KalRIUTJRaHpTemJtaHYwU1ZsSWVoR1VzUHEwdVBaWDlyalJWM0dJT2ZVWmRZUkZjV1EvMzhTbUNQZVdZTjVodXhTYXh0eTI2dEVJWnNVSVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzY0NzkwCWZpbGU6RVp0YWtlb2ZmXzAuOC44OV94NjQtc2V0dXAuZXhlCld2ZG5QOWZvaVArdnlVSlVxR0ZnZFlGajJsSWZRNjVxc2pIQytORnNhWDdQd2UwTFNNQWpFVzZKcjg0KzlxZlBCeWxrTldZUVFkRy9td3hBSDVUWERRPT0K",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.89/EZtakeoff_0.8.89_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3F2NjhiY0NzTDB5NUJsa3ljRmNvT3R6d1hIZjBuTlJpSVlEYjZHV1lvWTZZV1lEK1p4Y2dkSmRvS25VOENDWnE0dXNzUnR5STRiSUhGNGo0YXdDbXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzY2MjI4CWZpbGU6RVp0YWtlb2ZmXzAuOC45MF94NjQtc2V0dXAuZXhlClhVQVZCOHprN1R6SWJRU2UyejhmN2JlQ0p5UkRhYkcrSnZmTTBPdHBZQUtyUENuTWI4QWVjODZ0bW5zdmUxMkpuenRkT3RWL3FiUFpTNFE2SkpGUkN3PT0K",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.90/EZtakeoff_0.8.90_x64-setup.exe"
     }
   }
 }
