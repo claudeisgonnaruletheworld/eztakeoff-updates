@@ -1,11 +1,11 @@
 {
-  "version": "0.8.94",
-  "notes": "Fewer false holds on Claude's pipe runs: a branch entering a main at 45° is no longer taken for a corner, notes on parts of a sheet with no pipe drawn under them hold nothing, and dimension lines and their figures are no longer read as size notes or their arrows. For a pipe drawn on another level along a run already taken off, Claude is pointed to the stacked-run tool first.\nSizes Written Two Ways (Settings > Claude): sizes a material writes one way on the drawings and another in the templates are kept with the templates for each tab and hold on every job. Claude adds one only with your own words. On a drawing with a scale, the drawn width of the pipe settles a note's size.\nA size that is not in the templates is placed as drawn, with one note on the drawing check record, removed once the size is added to the templates. Each drawing now has one drawing check record.\nClaude's questions: an answered question is taken off the drawing once Claude has acted on it, and a question shows only the question, without coordinates or levels.",
-  "pub_date": "2026-11-16T01:44:20.757Z",
+  "version": "0.8.95",
+  "notes": "Drawing Colours (right-click a drawing): show one system in its own colour while the rest of the drawing is shown in grey, so the same service stands out on a tender drawing and on its construction drawing even when they use different colours. Show Only This Colour, Add This Colour and Remove This Colour work from the pipe under the mouse. Grey Out Area greys the parts of that system you don't want, and Show All Colours restores the drawing. The setting is kept with each drawing and Ctrl+Z undoes it. Takeoff, Pick Run and Claude still read the drawing as issued. Claude can set the same view with its new drawing_colours tool.",
+  "pub_date": "2026-11-16T10:22:46.355Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N25pdC9GSkpQUktkbDdlVHUzWjRuV2tyQ2ZVYUlDTlVmZkQrekE4blc1T0FLcUdWUnNFQzh6eVFrRytnY0RtVUl0VnRZU1dQVXJocG5DeWdxNDhhUHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzkzNDU1CWZpbGU6RVp0YWtlb2ZmXzAuOC45NF94NjQtc2V0dXAuZXhlCnNQZDZPMGlvcE41aUNnckphaHNNYU9NcGJuNFVwdmtEdkVMOGtLY2JaQmJXZ25JakplN1VpM0gvVlRCTDVWQmtlOGdCSG42bWtWd01VSDZlcGxoZ0RBPT0K",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.94/EZtakeoff_0.8.94_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2tHMTdwbDh1eFZBQzlBTnp4cHBpeDhwbUhhVFdRbjFTc05IZW4raDhSWGdob0hQdnZBSzlHcXlaUENIWk03MmZDY0JKMlVWMis4bWVLUXg5d3QvbXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODI0NTI2CWZpbGU6RVp0YWtlb2ZmXzAuOC45NV94NjQtc2V0dXAuZXhlCkZXYU9mMTlyRi9NWEZIOTNWQjgxaUY1OG81TnJSVEpPSUZ2ZnFLYWlvMEZZMU15KzRpZDRtcEtnTjdoeEJyVUwrL2lSWEFLVDJaTnlVaVMxMW9UU0F3PT0K",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.95/EZtakeoff_0.8.95_x64-setup.exe"
     }
   }
 }
