@@ -1,11 +1,11 @@
 {
-  "version": "0.8.93",
-  "notes": "Claude reads the drawing along a pipe run before placing it: measure now says what is drawn along the line (notes with arrows on it, word for word, the pipe drawn under it and its width in mm, other pipes and marks), and a new run is placed only on a line the chat has read. A run is held when a note on it gives another size, or when the drawn width changes along it. Settings > Claude can turn this off.\nPipe-only takeoffs no longer need a fitting at every corner: Claude states \"pipe only\" or \"pipe and fittings\" with your words before its first run. One pipe run at a time stays.\nClaude's reads of a drawing run in the background, one at a time, so the window never stops responding; app_status says what's running; Claude is told to send one call at a time.\nEach Claude chat works in a drawing view of its own: its pictures are drawn off screen, and on your screen only when asked, never in a view another chat is using.",
-  "pub_date": "2026-11-15T22:49:28.375Z",
+  "version": "0.8.94",
+  "notes": "Fewer false holds on Claude's pipe runs: a branch entering a main at 45° is no longer taken for a corner, notes on parts of a sheet with no pipe drawn under them hold nothing, and dimension lines and their figures are no longer read as size notes or their arrows. For a pipe drawn on another level along a run already taken off, Claude is pointed to the stacked-run tool first.\nSizes Written Two Ways (Settings > Claude): sizes a material writes one way on the drawings and another in the templates are kept with the templates for each tab and hold on every job. Claude adds one only with your own words. On a drawing with a scale, the drawn width of the pipe settles a note's size.\nA size that is not in the templates is placed as drawn, with one note on the drawing check record, removed once the size is added to the templates. Each drawing now has one drawing check record.\nClaude's questions: an answered question is taken off the drawing once Claude has acted on it, and a question shows only the question, without coordinates or levels.",
+  "pub_date": "2026-11-16T01:44:20.757Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3RqOGRLTXFLcTRaaXFkQVl0ZlFBLzJGbVBBbnJpNGFtME55aEt5Z3NMb0tWeVoxei9mdmEzc0V6N2xlczZsOUZDZzEybldycmpjdVZjZUV5Y1YvbmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzgyOTYyCWZpbGU6RVp0YWtlb2ZmXzAuOC45M194NjQtc2V0dXAuZXhlCmxLdXYrV0dFa0EvSU1xY1JQTUV6Y1ptZjJpcmpzcDFpUmdpNDh5YUxVMCtVZ0lodXp4SWNoTmRxYjlQWGhCUlNrWVYvSGo3MTdsZk83UkV0UDZQekJRPT0K",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.93/EZtakeoff_0.8.93_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N25pdC9GSkpQUktkbDdlVHUzWjRuV2tyQ2ZVYUlDTlVmZkQrekE4blc1T0FLcUdWUnNFQzh6eVFrRytnY0RtVUl0VnRZU1dQVXJocG5DeWdxNDhhUHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzkzNDU1CWZpbGU6RVp0YWtlb2ZmXzAuOC45NF94NjQtc2V0dXAuZXhlCnNQZDZPMGlvcE41aUNnckphaHNNYU9NcGJuNFVwdmtEdkVMOGtLY2JaQmJXZ25JakplN1VpM0gvVlRCTDVWQmtlOGdCSG42bWtWd01VSDZlcGxoZ0RBPT0K",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.94/EZtakeoff_0.8.94_x64-setup.exe"
     }
   }
 }
