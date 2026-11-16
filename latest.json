@@ -1,11 +1,11 @@
 {
-  "version": "0.8.95",
-  "notes": "Drawing Colours (right-click a drawing): show one system in its own colour while the rest of the drawing is shown in grey, so the same service stands out on a tender drawing and on its construction drawing even when they use different colours. Show Only This Colour, Add This Colour and Remove This Colour work from the pipe under the mouse. Grey Out Area greys the parts of that system you don't want, and Show All Colours restores the drawing. The setting is kept with each drawing and Ctrl+Z undoes it. Takeoff, Pick Run and Claude still read the drawing as issued. Claude can set the same view with its new drawing_colours tool.",
-  "pub_date": "2026-11-16T10:22:46.355Z",
+  "version": "0.8.96",
+  "notes": "Link as Same Run: right-click a pipe run on the tender drawing, choose Same Run > Link as Same Run, then click the same run on the construction drawing. Both runs take one reference, shown as a tag on each drawing, and picking one highlights the other. Run Reference… sets your own reference, such as the tender schedule's. A run with a reference on one drawing only is listed as Tender only or Construction only.\nTakeoff > Tender and Construction… lists every reference with its length on tender, on construction and the difference, with totals and Copy Table for Excel.\nPages > right-click > Drawing Issue sets a drawing as Tender or Construction.\nClaude can link and compare runs with its new same_run tool.",
+  "pub_date": "2026-11-16T10:42:15.334Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2tHMTdwbDh1eFZBQzlBTnp4cHBpeDhwbUhhVFdRbjFTc05IZW4raDhSWGdob0hQdnZBSzlHcXlaUENIWk03MmZDY0JKMlVWMis4bWVLUXg5d3QvbXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODI0NTI2CWZpbGU6RVp0YWtlb2ZmXzAuOC45NV94NjQtc2V0dXAuZXhlCkZXYU9mMTlyRi9NWEZIOTNWQjgxaUY1OG81TnJSVEpPSUZ2ZnFLYWlvMEZZMU15KzRpZDRtcEtnTjdoeEJyVUwrL2lSWEFLVDJaTnlVaVMxMW9UU0F3PT0K",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.95/EZtakeoff_0.8.95_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2gwa3hMQlJGVS9Kd2JTZ3p0bXFDSk9vV001VU1pTGl5cDZ6VTlhYUhFelF6RTZGZUFyOGZVU2dFT2JCRnVIN2hxRUkrem9HZURrRXhKVE1UVm9UcXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODI1NzEyCWZpbGU6RVp0YWtlb2ZmXzAuOC45Nl94NjQtc2V0dXAuZXhlCmsxaFd6K2Q0WUlxUktHZUp5UzAxWEVveVh3cXFXYU9sd1BOcHdXUG1pZURIcEFyN0pLMXQ1aTkwamRKK2dJcXFVbGs2WWxzV3JqeUNoT2VrVVlvcERRPT0K",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.96/EZtakeoff_0.8.96_x64-setup.exe"
     }
   }
 }
