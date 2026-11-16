@@ -1,11 +1,11 @@
 {
-  "version": "0.8.96",
-  "notes": "Link as Same Run: right-click a pipe run on the tender drawing, choose Same Run > Link as Same Run, then click the same run on the construction drawing. Both runs take one reference, shown as a tag on each drawing, and picking one highlights the other. Run Reference… sets your own reference, such as the tender schedule's. A run with a reference on one drawing only is listed as Tender only or Construction only.\nTakeoff > Tender and Construction… lists every reference with its length on tender, on construction and the difference, with totals and Copy Table for Excel.\nPages > right-click > Drawing Issue sets a drawing as Tender or Construction.\nClaude can link and compare runs with its new same_run tool.",
-  "pub_date": "2026-11-16T10:42:15.334Z",
+  "version": "0.8.97",
+  "notes": "Export PDF for Bluebeam now carries Drawing Colours: a drawing with colours kept or areas greyed is exported the way it is shown in EZtakeoff, grey with the kept system in its own colour. The grey view is on its own layer, Drawing Colours, so switching that layer off in Bluebeam shows the drawing as issued.\nRuns linked as the same run are exported with their reference as a small text box beside the run, on the run's layer.\nDrawings with no Drawing Colours set are exported as before.",
+  "pub_date": "2026-11-16T11:06:25.855Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2gwa3hMQlJGVS9Kd2JTZ3p0bXFDSk9vV001VU1pTGl5cDZ6VTlhYUhFelF6RTZGZUFyOGZVU2dFT2JCRnVIN2hxRUkrem9HZURrRXhKVE1UVm9UcXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODI1NzEyCWZpbGU6RVp0YWtlb2ZmXzAuOC45Nl94NjQtc2V0dXAuZXhlCmsxaFd6K2Q0WUlxUktHZUp5UzAxWEVveVh3cXFXYU9sd1BOcHdXUG1pZURIcEFyN0pLMXQ1aTkwamRKK2dJcXFVbGs2WWxzV3JqeUNoT2VrVVlvcERRPT0K",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.96/EZtakeoff_0.8.96_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3NpWVVvNC9OWDROYUhHNTZ1WWViUVBWc0ZNUVRnSkF0SU1QQXJmUHhLVTNZSFdSY2E4OEZaN0pEUFAyUGNIR1huOTV5UkFjWmE3TVN2RlVZMFpuS2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODI3MTU2CWZpbGU6RVp0YWtlb2ZmXzAuOC45N194NjQtc2V0dXAuZXhlCi8yTGhZNGIvbi82dVRaQ05UazJsbFVnVDBlZ2pPWDlhaTNIcVpUSVZnUktobWxqM1JNRk9KWHZOMkxLQS9jam4ydlhHRXBSWm1oY25xKzhhOVJQekFRPT0K",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.97/EZtakeoff_0.8.97_x64-setup.exe"
     }
   }
 }
