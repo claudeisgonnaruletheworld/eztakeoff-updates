@@ -1,11 +1,11 @@
 {
-  "version": "0.8.97",
-  "notes": "Export PDF for Bluebeam now carries Drawing Colours: a drawing with colours kept or areas greyed is exported the way it is shown in EZtakeoff, grey with the kept system in its own colour. The grey view is on its own layer, Drawing Colours, so switching that layer off in Bluebeam shows the drawing as issued.\nRuns linked as the same run are exported with their reference as a small text box beside the run, on the run's layer.\nDrawings with no Drawing Colours set are exported as before.",
-  "pub_date": "2026-11-16T11:06:25.855Z",
+  "version": "0.8.98",
+  "notes": "Drawing Colours is now more selective. A colour kept on a drawing no longer keeps a greyed colour of nearly the same hue: with light blue rainwater shown, grey-blue pipes beside it are shown in grey. A service's own lighter and darker shades still stay together.\nA greyed colour, such as a grey-blue pipe, can now be chosen by right-click too: Show Only This Colour, Add This Colour and Remove This Colour work on it.",
+  "pub_date": "2026-11-16T14:40:15.071Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3NpWVVvNC9OWDROYUhHNTZ1WWViUVBWc0ZNUVRnSkF0SU1QQXJmUHhLVTNZSFdSY2E4OEZaN0pEUFAyUGNIR1huOTV5UkFjWmE3TVN2RlVZMFpuS2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODI3MTU2CWZpbGU6RVp0YWtlb2ZmXzAuOC45N194NjQtc2V0dXAuZXhlCi8yTGhZNGIvbi82dVRaQ05UazJsbFVnVDBlZ2pPWDlhaTNIcVpUSVZnUktobWxqM1JNRk9KWHZOMkxLQS9jam4ydlhHRXBSWm1oY25xKzhhOVJQekFRPT0K",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.97/EZtakeoff_0.8.97_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2hBanhMZE8wVFBVdk9UaHhqK0x6cXdHRWlUVXRLTWpRRkx1dXRhaWEra0l0akRmalJEN3BIWFNncEdkWXNwNjJPSXFoNzlEbXl3MVN0bStENS9KUkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODM5OTcwCWZpbGU6RVp0YWtlb2ZmXzAuOC45OF94NjQtc2V0dXAuZXhlClp3VzdlVWZGOHNXd29rSlZ2bC9GbXd3Q1JUZWZZblJFL2Z5VjJiV1J3ekZnbWtqbDNaTzBic3ZpbUZienFXdTBreHN5T3RWd3lRSVVFMDRyUmlaTUN3PT0K",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.98/EZtakeoff_0.8.98_x64-setup.exe"
     }
   }
 }
