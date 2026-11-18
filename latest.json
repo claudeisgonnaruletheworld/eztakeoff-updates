@@ -1,11 +1,11 @@
 {
-  "version": "0.8.101",
-  "notes": "Drawing check: fewer false alarms. A grey or black line beside a run is no longer taken for the pipe unless it is drawn at the item's size at the drawing's scale, so a dashed line, wall or border next to a run no longer holds it.\nThe drawing check record is tidier: one line and one pin for each run placed against the check (its points named together), and a reason already written on the record is referred to (\"as line 1\") instead of repeated. Existing lines are left as they are.",
-  "pub_date": "2026-11-18T10:17:41.802Z",
+  "version": "0.8.102",
+  "notes": "Export PDF for Bluebeam: each markup's Author is now Abel instead of the program's name.\nSettings has a new part, PDF for Bluebeam, with a Markup Author box to change the name. It is used from the next export.",
+  "pub_date": "2026-11-18T10:58:12.855Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3FJU2FmTmo1N05RdmxIWmZnTENBL1dMVWJNYk15OHRaKzlxMGxHdnV6em5xWHZoRHNjejk2WlV2dzlvcHcxTlh4UEFQckMwaS82MEhMQ1RYTlhuNHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTk3MDM2CWZpbGU6RVp0YWtlb2ZmXzAuOC4xMDFfeDY0LXNldHVwLmV4ZQp0L0pud0ZQOEtjTGRSN2h2NGhFWDYyNjRKV1JZOXBuYlV6NCtjdnNpR01DbWd0SFpIWVFNZ1Y4Wll3VGFpd0FPcHZTWTgzQWV2VlRkeWpEdjZqUDlCZz09Cg==",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.101/EZtakeoff_0.8.101_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2xqbXZlUTE0NC9IeTZPbm42c3FaVmxmRzM2TWRtaXBseVBnckRJYzJ5aklnamRPcm54KytyMkUvWHUzaDRUYysyM0Q0ZzJ4cWgydUxYUnMvYVh3aUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTk5NDcwCWZpbGU6RVp0YWtlb2ZmXzAuOC4xMDJfeDY0LXNldHVwLmV4ZQpMeFU0NitWeGZ2Qlk1T0h1Vk5xMlBWaW9Bb2UvUTcvZXJIY1JsbFNPaHJ1RXBFSndIMFJlM2w3TWNKNXJHaWdtY3dqSFFoS0NaWC9NTm51My9HT1FEZz09Cg==",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.102/EZtakeoff_0.8.102_x64-setup.exe"
     }
   }
 }
