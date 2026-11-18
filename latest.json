@@ -1,11 +1,11 @@
 {
-  "version": "0.8.102",
-  "notes": "Export PDF for Bluebeam: each markup's Author is now Abel instead of the program's name.\nSettings has a new part, PDF for Bluebeam, with a Markup Author box to change the name. It is used from the next export.",
-  "pub_date": "2026-11-18T10:58:12.855Z",
+  "version": "0.8.103",
+  "notes": "Notes: click a note to get a properties bar like Bluebeam's text box.\nLine: colour, opacity, style (Solid, Dashed 1 to 6, Cloud) and width.\nFill: colour or None, and opacity.\nFont: Helvetica, Times New Roman or Courier New, size, text colour, Bold, Italic, Underline and Strikethrough.\nExport PDF for Bluebeam writes notes as Bluebeam text boxes with these settings.\nClaude can set the same options on its notes.",
+  "pub_date": "2026-11-18T12:43:43.060Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2xqbXZlUTE0NC9IeTZPbm42c3FaVmxmRzM2TWRtaXBseVBnckRJYzJ5aklnamRPcm54KytyMkUvWHUzaDRUYysyM0Q0ZzJ4cWgydUxYUnMvYVh3aUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTk5NDcwCWZpbGU6RVp0YWtlb2ZmXzAuOC4xMDJfeDY0LXNldHVwLmV4ZQpMeFU0NitWeGZ2Qlk1T0h1Vk5xMlBWaW9Bb2UvUTcvZXJIY1JsbFNPaHJ1RXBFSndIMFJlM2w3TWNKNXJHaWdtY3dqSFFoS0NaWC9NTm51My9HT1FEZz09Cg==",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.102/EZtakeoff_0.8.102_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3Rrc0pUOEFjUU1yNElTTVhHWG1YVEZlbzFzcDBZM25ObEl3aE5VT0lzcWZMWmJhc0hQYW81QlZ0UkR6VHlrbE9lZkhTTDVOelJRT2x1MmJMbHMwVGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDA1ODAzCWZpbGU6RVp0YWtlb2ZmXzAuOC4xMDNfeDY0LXNldHVwLmV4ZQpWVG00dWRLOHQ5RHo4eGxlWVpEZmpDZ2pZYU9PNjVZdVhsRGxPRDJrRHRRb0daYXN5OFlUQUE0YkZobHdWWFZrVDBncEJCSDltaUQvNzB3aEVWK3ZCdz09Cg==",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.103/EZtakeoff_0.8.103_x64-setup.exe"
     }
   }
 }
