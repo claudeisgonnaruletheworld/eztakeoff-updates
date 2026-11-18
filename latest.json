@@ -1,11 +1,11 @@
 {
-  "version": "0.8.99",
-  "notes": "Export PDF for Bluebeam: a drawing with Drawing Colours set now stays sharp at any zoom. The drawing keeps its own lines and text in the PDF and only the grey is laid over it, instead of a picture of the whole sheet. The exported file is also smaller.\nThe grey is still on the Drawing Colours layer: in Bluebeam, press Alt+Y to open Layers and untick it to see the drawing as issued.",
-  "pub_date": "2026-11-16T16:26:55.562Z",
+  "version": "0.8.100",
+  "notes": "New Sheet > Lined up by grid: drawings can now be lined up with each other, with no other drawing to match. In Drawing to Match, choose \"None: line the drawings up with each other\" (it is chosen for you when no drawing holds the others, such as two halves of a floor). The new sheet takes the paper of the first drawing, at the biggest scale the whole plan fits, with every grid line and name across all the drawings. Edit Combined Drawing… works on it as on any combined drawing.",
+  "pub_date": "2026-11-18T09:35:09.768Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3RjNHhucXZTS3RGSkhpaEFnWnpBcW5hby9WVDExaU0yTldJU25uc2tpVjJkUjJ3b1hEVWVybStVMGs0aGhSc25ER0E5L0t6MmJkek9WZnZZYVB5b1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODQ2Mzg0CWZpbGU6RVp0YWtlb2ZmXzAuOC45OV94NjQtc2V0dXAuZXhlCm9kMzRGNEtqb29sNHhMRGhYWDNLWCtIQTUyMVdBdjJNOHRuV3VWZFJCb2pHTnE3TVVNN1lET3NsOHRxc3l1K2RnMzVjMTVqNWF3YlkrUjYrb09ZZ0RnPT0K",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.99/EZtakeoff_0.8.99_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3JrcFJGN0V5bFJGK1pzcGx2K0svcitRbU9PTzV4SWdUZ0dCUlZIOTJxTnc2SzNpR2xVOWJMQ3dGTVdKaitseEEycDNzOTRPUUFsdkM0ZW9mV2JKWXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTk0NDgzCWZpbGU6RVp0YWtlb2ZmXzAuOC4xMDBfeDY0LXNldHVwLmV4ZQpZQ1FkTThKa2FEejJpTTN2MUIzNmcwTk5CZGZLeUtUeTBsWnZtRmYzVnA3UW5Eb25ERjEzQ1hXRkNSckthZXEweHdmbHR4TnJCcTM0czRQMTFTbGJDQT09Cg==",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.100/EZtakeoff_0.8.100_x64-setup.exe"
     }
   }
 }
