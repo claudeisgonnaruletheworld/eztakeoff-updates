@@ -1,11 +1,11 @@
 {
-  "version": "0.8.100",
-  "notes": "New Sheet > Lined up by grid: drawings can now be lined up with each other, with no other drawing to match. In Drawing to Match, choose \"None: line the drawings up with each other\" (it is chosen for you when no drawing holds the others, such as two halves of a floor). The new sheet takes the paper of the first drawing, at the biggest scale the whole plan fits, with every grid line and name across all the drawings. Edit Combined Drawing… works on it as on any combined drawing.",
-  "pub_date": "2026-11-18T09:35:09.768Z",
+  "version": "0.8.101",
+  "notes": "Drawing check: fewer false alarms. A grey or black line beside a run is no longer taken for the pipe unless it is drawn at the item's size at the drawing's scale, so a dashed line, wall or border next to a run no longer holds it.\nThe drawing check record is tidier: one line and one pin for each run placed against the check (its points named together), and a reason already written on the record is referred to (\"as line 1\") instead of repeated. Existing lines are left as they are.",
+  "pub_date": "2026-11-18T10:17:41.802Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3JrcFJGN0V5bFJGK1pzcGx2K0svcitRbU9PTzV4SWdUZ0dCUlZIOTJxTnc2SzNpR2xVOWJMQ3dGTVdKaitseEEycDNzOTRPUUFsdkM0ZW9mV2JKWXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTk0NDgzCWZpbGU6RVp0YWtlb2ZmXzAuOC4xMDBfeDY0LXNldHVwLmV4ZQpZQ1FkTThKa2FEejJpTTN2MUIzNmcwTk5CZGZLeUtUeTBsWnZtRmYzVnA3UW5Eb25ERjEzQ1hXRkNSckthZXEweHdmbHR4TnJCcTM0czRQMTFTbGJDQT09Cg==",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.100/EZtakeoff_0.8.100_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3FJU2FmTmo1N05RdmxIWmZnTENBL1dMVWJNYk15OHRaKzlxMGxHdnV6em5xWHZoRHNjejk2WlV2dzlvcHcxTlh4UEFQckMwaS82MEhMQ1RYTlhuNHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTk3MDM2CWZpbGU6RVp0YWtlb2ZmXzAuOC4xMDFfeDY0LXNldHVwLmV4ZQp0L0pud0ZQOEtjTGRSN2h2NGhFWDYyNjRKV1JZOXBuYlV6NCtjdnNpR01DbWd0SFpIWVFNZ1Y4Wll3VGFpd0FPcHZTWTgzQWV2VlRkeWpEdjZqUDlCZz09Cg==",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.101/EZtakeoff_0.8.101_x64-setup.exe"
     }
   }
 }
