@@ -1,11 +1,11 @@
 {
-  "version": "0.8.104",
-  "notes": "Notes: drag any corner or side handle to resize a note, as in Bluebeam.\nA click on the drawing outside a note you are typing saves it and deselects it.\nExport PDF for Bluebeam: a note's line colour, line opacity and fill opacity now carry over exactly as Bluebeam keeps them, and dashes stay the same size at any line width.",
-  "pub_date": "2026-11-18T13:10:14.285Z",
+  "version": "0.8.105",
+  "notes": "Notes: the opacity and width arrows now change the note as you press them, and the value is kept.\nCopy and paste notes with Ctrl+C and Ctrl+V, or Copy on a note's right-click menu and Paste on the drawing's.\nA note's right-click menu has Copy Format, Paste Format and Format Painter, as in Bluebeam. The Format Painter gives the format to each note you click until you press Esc or click empty drawing.\nClaude can give notes another note's format too.",
+  "pub_date": "2026-11-19T09:20:11.700Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2h0K1N4Q1NOeTRxeXVtTExHbzBRUitVcnFGS0FKalJFM2dvWk9LN0E0dHpWSlFRUU14UUhXQ3A4YURPcFpHMWROSmYvQUkwTjQ5NGs0cERoQWpybmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDA3Mzg4CWZpbGU6RVp0YWtlb2ZmXzAuOC4xMDRfeDY0LXNldHVwLmV4ZQpUV0pjY00xUWh0TmFiZGhZQmordXpjY1V3bkY3N05hQ0pLM1V1WjAxZ2hCWkdpNXRMV0xxMGpSYzRCYWliRE1qVjIzMHJTRkFUNkRzenNkbXdNU3dCZz09Cg==",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.104/EZtakeoff_0.8.104_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3FKdjVzU3dCOHhOMVYwb2tWSlhPKys3RHlNeHYxWE4xZnM5UlpHSlRTVEJRRU85RDBPRzYyY2MxL01jWCs4dTV1K3hwNENxbGhMZVc4ZHY4ZXk2U1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDc5OTg0CWZpbGU6RVp0YWtlb2ZmXzAuOC4xMDVfeDY0LXNldHVwLmV4ZQpXQWtCMFczTmxTT3l2bzV4ZnhzWTM2TE54YS96eU9idVMzbmxZR0lPMkMzVWY5M0c1MFpsWllpY2xmMzMwV210OWhVWUwzVDBPWDhnckZjUndNby9EZz09Cg==",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.105/EZtakeoff_0.8.105_x64-setup.exe"
     }
   }
 }
