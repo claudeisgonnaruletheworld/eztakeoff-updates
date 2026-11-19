@@ -1,11 +1,11 @@
 {
-  "version": "0.8.108",
-  "notes": "Polygon tool, as Bluebeam's: Takeoff > Polygon (G). Click each corner, then double-click or click the first corner to close it. Its bar sets the line (colour, opacity, solid, dashed or cloud, width), the fill (colour or none, opacity) and Bluebeam's hatches (Brick, Grid, Diagonal, Weave, Dots and more) with their own colour. Drag its corners or move it whole; Copy, Paste, Copy Format and Format Painter work as for notes. It exports to Bluebeam as a Polygon with its hatch. Claude can draw and change polygons too.",
-  "pub_date": "2026-11-19T10:31:38.245Z",
+  "version": "0.8.109",
+  "notes": "Claude can pin questions on a drawing before any takeoff when you ask for them, for example about equipment shown on a schematic but on no layout. Without your request, questions still come after the takeoff.",
+  "pub_date": "2026-11-19T11:01:58.414Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3F0QjRvcHliMWUxRjQyVUZ0bncyUFd1YTdSYVIyeFFHeUNqclhnSnM4VVY3THU2dTUwRDRPeXFIcUY1bTh1QTY3Z2ExMktvUCtDd1BWWFNOTzJKaWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDg0MjczCWZpbGU6RVp0YWtlb2ZmXzAuOC4xMDhfeDY0LXNldHVwLmV4ZQpLOXVRRHVGY3ZySGNycHpDM3h1ZkFyMFU1NnJCVDlGSlExWThOdWVEb1JUU29meDRtZmFIakkyYlpwQkxJQmNBbjV4L2J6aDdqRHVLZ2pqalBJMkZCUT09Cg==",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.108/EZtakeoff_0.8.108_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2hDWXRPLzlNRWY4VEx2c1ZEOWtQeVp3WXdWNnZuV3UvUDN5MGxNemtPNFFhWkp2WlhyaUFDQU42NUxldTROUmRoWHNvajVTcTdhNWZoRWpvMFRMN0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDg2MDk2CWZpbGU6RVp0YWtlb2ZmXzAuOC4xMDlfeDY0LXNldHVwLmV4ZQp1SWd6OUQ0TStIOFVGTmNoYURKQVozckJsL2NQL2ZHak8zM0x5M0I5emEzbGZIQ3hkQkQ4MXYzeTdQVmlFVFBhZDkrSU85TG1uekE0dkZEbGxibE1EZz09Cg==",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.109/EZtakeoff_0.8.109_x64-setup.exe"
     }
   }
 }
