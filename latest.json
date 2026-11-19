@@ -1,11 +1,11 @@
 {
-  "version": "0.8.105",
-  "notes": "Notes: the opacity and width arrows now change the note as you press them, and the value is kept.\nCopy and paste notes with Ctrl+C and Ctrl+V, or Copy on a note's right-click menu and Paste on the drawing's.\nA note's right-click menu has Copy Format, Paste Format and Format Painter, as in Bluebeam. The Format Painter gives the format to each note you click until you press Esc or click empty drawing.\nClaude can give notes another note's format too.",
-  "pub_date": "2026-11-19T09:20:11.700Z",
+  "version": "0.8.106",
+  "notes": "Notes: a double-click on a word while typing a note now selects the word instead of closing the note. Click outside the note or press Esc to finish.\nSpaces and blank lines in a note now stay where you typed them, on screen and in the PDF for Bluebeam.",
+  "pub_date": "2026-11-19T09:58:05.863Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3FKdjVzU3dCOHhOMVYwb2tWSlhPKys3RHlNeHYxWE4xZnM5UlpHSlRTVEJRRU85RDBPRzYyY2MxL01jWCs4dTV1K3hwNENxbGhMZVc4ZHY4ZXk2U1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDc5OTg0CWZpbGU6RVp0YWtlb2ZmXzAuOC4xMDVfeDY0LXNldHVwLmV4ZQpXQWtCMFczTmxTT3l2bzV4ZnhzWTM2TE54YS96eU9idVMzbmxZR0lPMkMzVWY5M0c1MFpsWllpY2xmMzMwV210OWhVWUwzVDBPWDhnckZjUndNby9EZz09Cg==",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.105/EZtakeoff_0.8.105_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2tXK3hWeXdKd1NiMENkOXdCbk15cUN0UnhhNVJEUGQ0Uzc5QkVsdU1JSjhtVmQzb3o0TEJCSXQ1THVnazFTZHhNN2NSMWUxZ3VOS3RFZitnTmJ5Q3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDgyMjYzCWZpbGU6RVp0YWtlb2ZmXzAuOC4xMDZfeDY0LXNldHVwLmV4ZQptNmFtUFhISFp0YW96ZVlxUmRRK1RYemdDUmlFdndQR1FUcXY4ZURycmNsNUlKM2dFZ3Z1cDJjN2JwazBiTnQrREdnK1U3cEc1VmtlRlRVTTR0ZC9EZz09Cg==",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.106/EZtakeoff_0.8.106_x64-setup.exe"
     }
   }
 }
