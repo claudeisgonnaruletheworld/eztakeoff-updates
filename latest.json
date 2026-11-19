@@ -1,11 +1,11 @@
 {
-  "version": "0.8.110",
-  "notes": "Claude can now export the PDF for Bluebeam with the app's own Export PDF for Bluebeam, so its file has every note, the legend and the same opacities as yours.",
-  "pub_date": "2026-11-19T11:59:59.495Z",
+  "version": "0.8.111",
+  "notes": "The PDF for Bluebeam no longer puts a legend on the sheet, so Bluebeam's Markups List loads instead of hanging. Add your own legend in Bluebeam.",
+  "pub_date": "2026-11-19T12:22:02.648Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3B5WVRiZmdFY0w2Q1lzWGF4bFpuemNCRzc0TC9Xd29IVUdsN09IVnZGZzhqamlGM0xqM1B5QU82RmFPWGVINzhvZ29rSjQ5ckdEY1huTkNOSXBleGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDg5NTc2CWZpbGU6RVp0YWtlb2ZmXzAuOC4xMTBfeDY0LXNldHVwLmV4ZQovbmtyUE1FdUFZQmgxWlA4ZTVwZUowbmVoeUdjREtDdnJlRXBuM2ZJYnJaL0VZUTJqeFlxSWk3SjJ0bzZTblA5NFRvWWJRNTcvTW9OUXNqbG5NckdEdz09Cg==",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.110/EZtakeoff_0.8.110_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2xaV0FXWEFpbnZEcU0wRE1RREp5M3pHTURNWmpVUzRpTTJPWTVQQzR5VENsRE5aanpyVzZaUGVTQXJ0SUF0cVVSN0hYVFJTL0poVjdEUUkyaGp3Z3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDkwODk5CWZpbGU6RVp0YWtlb2ZmXzAuOC4xMTFfeDY0LXNldHVwLmV4ZQoxc0dVSEhBZnY0VVFFR1VGSSsrbjhRait0WGFDQ3gzK0NsUUdBbEFER0dYeGVSU3NDYWJKL2V3VUFsZm9aTEtHNm9oeW41UVo1ZFZVMVJkb2h3ZFhDdz09Cg==",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.111/EZtakeoff_0.8.111_x64-setup.exe"
     }
   }
 }
