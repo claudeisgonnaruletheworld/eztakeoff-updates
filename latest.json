@@ -1,11 +1,11 @@
 {
-  "version": "0.8.113",
-  "notes": "Add Pin keeps going: right-click a note for Claude > Add Pin, then click as many places as you need. Press Esc to finish. The lock beside For Claude has been removed.",
-  "pub_date": "2026-11-20T09:24:18.702Z",
+  "version": "0.8.114",
+  "notes": "Send to Claude: when you answer one of Claude's questions on the drawing, by picking a button or typing, a Send to Claude button appears on the note. Press it and the Claude chat that asked receives your answer straight away, so there is no need to tell it in the chat. The note then shows \"Sent to Claude\". If you change the answer, the button appears again.",
+  "pub_date": "2026-11-20T16:43:12.707Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3BNYkpndUlFZ0dnamhEeXlnYW9jYm5kNzlwak1rbVhTYjYzY0lSb2J6TnNiZDRaWTZ5NzFhZDg5OTZ2aUVVS1l3c2IwY3lzK2RYUnBOeDVtd2RSV1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTY2NjM5CWZpbGU6RVp0YWtlb2ZmXzAuOC4xMTNfeDY0LXNldHVwLmV4ZQp0bjU0NksvTVZ0UWluYUdjREJGejFHaThsUko2azlkR2R3cTFUYVpJSDFkcHJDTXAvT1hqbkcxcjVaQVhZbnVvdEdvN1B0Z0k1RlYxamtCVXRBMjNBZz09Cg==",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.113/EZtakeoff_0.8.113_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N283U3hxd1JYamxKUWFQRWhqYWcxa2tuUmM0aEVDV3VxVkdWTHZaYmlqRnRsdmt4bXFLQndjUWtPZk13dUtDcmpWa29COWhSY3U2UHdIQ2tDNm9xbHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTkyOTcwCWZpbGU6RVp0YWtlb2ZmXzAuOC4xMTRfeDY0LXNldHVwLmV4ZQpGUVlWT2luVTdoM0YyMUl6MEhwbW0yR2NHanlnUjNlUW03eWZVVFR0bzRPTEljZkxqenZNdGpGNnZRK01YVmlQU0ZuQklUb1pzMmk2K1dkWUErSWNDZz09Cg==",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.114/EZtakeoff_0.8.114_x64-setup.exe"
     }
   }
 }
