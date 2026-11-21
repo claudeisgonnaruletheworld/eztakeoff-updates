@@ -1,11 +1,11 @@
 {
-  "version": "0.8.114",
-  "notes": "Send to Claude: when you answer one of Claude's questions on the drawing, by picking a button or typing, a Send to Claude button appears on the note. Press it and the Claude chat that asked receives your answer straight away, so there is no need to tell it in the chat. The note then shows \"Sent to Claude\". If you change the answer, the button appears again.",
-  "pub_date": "2026-11-20T16:43:12.707Z",
+  "version": "0.8.115",
+  "notes": "Faster drawing when zoomed in: the sharp picture of a zoomed-in drawing is now drawn from only the part in view, so it appears much sooner on heavy drawings. It uses more memory on very heavy drawings. To turn it off, untick Settings > Drawings > Faster drawing when zoomed in.",
+  "pub_date": "2026-11-21T07:20:08.125Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N283U3hxd1JYamxKUWFQRWhqYWcxa2tuUmM0aEVDV3VxVkdWTHZaYmlqRnRsdmt4bXFLQndjUWtPZk13dUtDcmpWa29COWhSY3U2UHdIQ2tDNm9xbHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTkyOTcwCWZpbGU6RVp0YWtlb2ZmXzAuOC4xMTRfeDY0LXNldHVwLmV4ZQpGUVlWT2luVTdoM0YyMUl6MEhwbW0yR2NHanlnUjNlUW03eWZVVFR0bzRPTEljZkxqenZNdGpGNnZRK01YVmlQU0ZuQklUb1pzMmk2K1dkWUErSWNDZz09Cg==",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.114/EZtakeoff_0.8.114_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3VvZWt6dFoydFJLdVVwMGd5Z1k2N3pTK3pLWXhKaU5YZnZzK3FqWWFQTXFCWnRnaXBwUEFXM1NySHBRd21nK01KL1R5OE04aXM3ak8xVnhVYlhtNXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjQ1NTczCWZpbGU6RVp0YWtlb2ZmXzAuOC4xMTVfeDY0LXNldHVwLmV4ZQpBVkRaRUZkUkZQMlZJclp5S1RyMVNLRWt2Yll3SFRwRFV6VmZGb1FHVE9mRXR3Z2k4Wmh4NVZnOW5LVHhkRDZzWUxWalgxU2NkQlpYeEcrSnFNUXhCQT09Cg==",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.115/EZtakeoff_0.8.115_x64-setup.exe"
     }
   }
 }
