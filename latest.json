@@ -1,11 +1,11 @@
 {
-  "version": "0.8.124",
-  "notes": "On the drawing check record notes, Claude's reason is now shown in green so it stands out from the check result.",
-  "pub_date": "2026-11-24T13:54:30.999Z",
+  "version": "0.8.125",
+  "notes": "Send to Claude now reaches the Claude chat that asked the question, even after that chat has stopped: it starts listening for your Send as soon as it pins a question.",
+  "pub_date": "2026-11-24T14:21:35.486Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2lYMUFYVlZhNnlWTUtQb0k1ZGNJMFNzd1JsQkVocFlZeGpsRHNhTlVBVWp3WE5YZk1NUDR6L3pVQkNGVjFjQ1hCSU1Zc2lJQnlwek45dmg2UVdGUnd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTI4NDQ4CWZpbGU6RVp0YWtlb2ZmXzAuOC4xMjRfeDY0LXNldHVwLmV4ZQpXNWs4SE41dFhhaTF3SEZJM0c2TkJuK1pGeXYwMjdGS3RwUXMyS2xOTDNZZXZmaVFOcE9NQi9SVytGb0FtdXJSMzVyUFdIRmhlWCt0SXBTZnBsUGhBQT09Cg==",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.124/EZtakeoff_0.8.124_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3JqVkJUY1Z2NE16Z3hqUmxRdU0zMTJVZElSOVFRZzcrT1FSakF2dHk3NlhsbHNKaUlLU3c2M3BIM3dHQjRMQUFRZW5pL2NzRFBYOUE4aWx5YW9JVEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTMwMDcwCWZpbGU6RVp0YWtlb2ZmXzAuOC4xMjVfeDY0LXNldHVwLmV4ZQpEaStyRTBRM1VYcjRTbVNSYXJyK290emNNcjlCRFJYei8yRTlBcnRZT1QzZ2NjMnZnSEM1bnl1c1pYbm9BY0dBd3AwcTB4RjBXVjJ3MEJKSXJjbWRBdz09Cg==",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.125/EZtakeoff_0.8.125_x64-setup.exe"
     }
   }
 }
