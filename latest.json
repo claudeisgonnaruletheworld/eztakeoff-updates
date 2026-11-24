@@ -1,11 +1,11 @@
 {
-  "version": "0.8.120",
-  "notes": "The Pages list is easier to read: guide lines now join each drawing and folder to the folder it belongs to, folders and drawings have their own icons, and each level is indented the same way as the Templates tree.",
-  "pub_date": "2026-11-24T11:26:13.002Z",
+  "version": "0.8.121",
+  "notes": "Drawings in the Pages list now show a PDF sheet icon.",
+  "pub_date": "2026-11-24T11:48:49.351Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2tlSmRWYzlEM2lFOVhyTTU1SEFTWDRKVXE5bUJDU0FIcFdHQ20vRkZ2bGFxZ0VEWFlHN1Z6Qzc5Z0dQN214MnJwWkJiOEdnamo3aWM3ai9GZElzZndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTE5NTQ5CWZpbGU6RVp0YWtlb2ZmXzAuOC4xMjBfeDY0LXNldHVwLmV4ZQppdlRYQ2hKZ1c5M1k5akc5elNGNVlwMTVITmJvZnRERjBtUk00R0xWMEJDRUQwNGFrd1lnekxsVG13cXViT3M0UmhrOVJ4Ry9HTmRSVnlnWG9KSEpBZz09Cg==",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.120/EZtakeoff_0.8.120_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3EwYmxiOFR3bGNLUGw0UHNQZGVoUk00T0NZTlQ3WEVWRUthOHVwbzNOTmJPSXVGT2IwRnZsTTEyZzNvRUlieWpkcmtQbE0zT1dTTk1hcWNvZTF1YVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTIwOTA2CWZpbGU6RVp0YWtlb2ZmXzAuOC4xMjFfeDY0LXNldHVwLmV4ZQpIQ21IT0l3Z3RWK1MzSm5zWW9CZGJVK3JIaHBmL0IxNU9pVlNhQWhIZFdsSUhjWkd6NVRHT2t1SXNoWlBOc1BRdFNLNDVxdW1yWjNtaXBYenAyWmxCQT09Cg==",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.121/EZtakeoff_0.8.121_x64-setup.exe"
     }
   }
 }
