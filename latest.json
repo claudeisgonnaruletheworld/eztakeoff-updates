@@ -1,11 +1,11 @@
 {
-  "version": "0.8.122",
-  "notes": "Claude can now show you where something is on a drawing: ask it \"show me where…\" and it places a purple marker (L1, L2…). The new Locations button in the bottom bar takes you to each one; right-click it to pick one or clear them all.",
-  "pub_date": "2026-11-24T12:02:56.407Z",
+  "version": "0.8.123",
+  "notes": "Deleting a drawing in the Pages list no longer opens folders you have closed.",
+  "pub_date": "2026-11-24T13:18:21.687Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3Z2ejBUMFZIZXlwcXpEUWVDSWV3clhnejBYM3pPN3labUFKVUxhTFg3YlBTaFd4eTlSRE9CR1NFbWtZM0lXZkYxeGdMelZidlZKZzBHd1FhL2RZTkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTIxNzQ4CWZpbGU6RVp0YWtlb2ZmXzAuOC4xMjJfeDY0LXNldHVwLmV4ZQovbW5panVZNzFISEYyOXNiYzQ1cFArSHJmZWt2L1dNdG82VjNrTmd3Y3d3ZGFDZSs2OVA4eDZqRzN5cG1SNU95OHZqM0hRaFd4UzkrZFNKN0wyNHRCUT09Cg==",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.122/EZtakeoff_0.8.122_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3MvaFNZQUliNkY3U2MxNXVEMldUd2F6QUp1NUc5eVkvTEw5eGtWOFZ4b0xIOGJDQ0JEd0dtU3RVc3F3aHlXL1RVbFBVaUU2Y2lTUUpCUEhhN3Z3V3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTI2Mjc3CWZpbGU6RVp0YWtlb2ZmXzAuOC4xMjNfeDY0LXNldHVwLmV4ZQpRSHdFQ2ZHS2NHdGdwTUdCS3N2Nmkza1RBZjZIcndCUU4ranlvRmZiNFpucHJNckJGYkVyZ1ZCVHE1eUZWZElJVjlQQ2JBKyt0aW5tc2EyRVhuL3BDZz09Cg==",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.123/EZtakeoff_0.8.123_x64-setup.exe"
     }
   }
 }
