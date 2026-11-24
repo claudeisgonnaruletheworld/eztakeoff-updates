@@ -1,11 +1,11 @@
 {
-  "version": "0.8.118",
-  "notes": "A filled shape whose outline crosses itself no longer shows with a hole in parts of a drawing. After this update, drawings are checked once more in the background before the graphics card draws them.",
-  "pub_date": "2026-11-23T04:49:17.168Z",
+  "version": "0.8.119",
+  "notes": "The Drawing Grids panel has a cleaner layout: shorter drawing names, the drawings each sheet lines up with folded into one line, and evenly sized buttons. Several grid lines can now be selected and deleted together (Ctrl+click or Shift+click, then Delete). The name box of a new grid line is ready to type in straight away.",
+  "pub_date": "2026-11-24T09:55:35.059Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3V1YlhRaFhpbU12cGxoeVBvVDkwd09pVlVJd1RFSFNLOFB5YnFsZ25lMXpibWRHSmNLY2dVWFcrUDY0bENISzJId2pzZGlpVThrWUxDSEFZTWliR2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDA5MzMyCWZpbGU6RVp0YWtlb2ZmXzAuOC4xMThfeDY0LXNldHVwLmV4ZQpCbmxjZG1ueWdmOHk5QVlwRlFWU0krZ3JGTmRneGhkd3lwRGQzWk5GRS8xeWtLMFhzTTZtcEltMTJKTzRiNm1kcE50RWVsQmM2UVg5NzR5TVNtZ2RDUT09Cg==",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.118/EZtakeoff_0.8.118_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N28yaFJxbFJWVlIxeHE1N2NHdThRVFNBV0hZSzZHVndLQlJFQkwrT2lFa0VzTHNnNlFEMDhCUytHL1ZMd08zdGxDQTllR2cwdktibDFBMjdXSXZkdnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTE0MTEwCWZpbGU6RVp0YWtlb2ZmXzAuOC4xMTlfeDY0LXNldHVwLmV4ZQo0K2U0SVF0R2pPdkcvaS9kOUVIVG8yeXBNYjFPTU1KWk9ySjFGTEpLUXlwZ0Q3ZHVHRXRRVnBFem8vbm9Sb3BxeXdrNUxNWHpGMEhjbzlwZmNqRUxDZz09Cg==",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.119/EZtakeoff_0.8.119_x64-setup.exe"
     }
   }
 }
