@@ -1,11 +1,11 @@
 {
-  "version": "0.8.123",
-  "notes": "Deleting a drawing in the Pages list no longer opens folders you have closed.",
-  "pub_date": "2026-11-24T13:18:21.687Z",
+  "version": "0.8.124",
+  "notes": "On the drawing check record notes, Claude's reason is now shown in green so it stands out from the check result.",
+  "pub_date": "2026-11-24T13:54:30.999Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3MvaFNZQUliNkY3U2MxNXVEMldUd2F6QUp1NUc5eVkvTEw5eGtWOFZ4b0xIOGJDQ0JEd0dtU3RVc3F3aHlXL1RVbFBVaUU2Y2lTUUpCUEhhN3Z3V3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTI2Mjc3CWZpbGU6RVp0YWtlb2ZmXzAuOC4xMjNfeDY0LXNldHVwLmV4ZQpRSHdFQ2ZHS2NHdGdwTUdCS3N2Nmkza1RBZjZIcndCUU4ranlvRmZiNFpucHJNckJGYkVyZ1ZCVHE1eUZWZElJVjlQQ2JBKyt0aW5tc2EyRVhuL3BDZz09Cg==",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.123/EZtakeoff_0.8.123_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2lYMUFYVlZhNnlWTUtQb0k1ZGNJMFNzd1JsQkVocFlZeGpsRHNhTlVBVWp3WE5YZk1NUDR6L3pVQkNGVjFjQ1hCSU1Zc2lJQnlwek45dmg2UVdGUnd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTI4NDQ4CWZpbGU6RVp0YWtlb2ZmXzAuOC4xMjRfeDY0LXNldHVwLmV4ZQpXNWs4SE41dFhhaTF3SEZJM0c2TkJuK1pGeXYwMjdGS3RwUXMyS2xOTDNZZXZmaVFOcE9NQi9SVytGb0FtdXJSMzVyUFdIRmhlWCt0SXBTZnBsUGhBQT09Cg==",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.124/EZtakeoff_0.8.124_x64-setup.exe"
     }
   }
 }
