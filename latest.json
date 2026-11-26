@@ -1,11 +1,11 @@
 {
-  "version": "0.8.125",
-  "notes": "Send to Claude now reaches the Claude chat that asked the question, even after that chat has stopped: it starts listening for your Send as soon as it pins a question.",
-  "pub_date": "2026-11-24T14:21:35.486Z",
+  "version": "0.8.126",
+  "notes": "Opening several drawings while their grids are being searched no longer runs out of memory. The Pages list has Expand all and Collapse all, like the Templates and Take Off Measurements (also on a page folder's right-click menu). Typing a note near the edge of the drawing no longer slides the drawing sideways, and a new note clicked near the edge starts far enough in to show.",
+  "pub_date": "2026-11-26T08:27:42.635Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3JqVkJUY1Z2NE16Z3hqUmxRdU0zMTJVZElSOVFRZzcrT1FSakF2dHk3NlhsbHNKaUlLU3c2M3BIM3dHQjRMQUFRZW5pL2NzRFBYOUE4aWx5YW9JVEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTMwMDcwCWZpbGU6RVp0YWtlb2ZmXzAuOC4xMjVfeDY0LXNldHVwLmV4ZQpEaStyRTBRM1VYcjRTbVNSYXJyK290emNNcjlCRFJYei8yRTlBcnRZT1QzZ2NjMnZnSEM1bnl1c1pYbm9BY0dBd3AwcTB4RjBXVjJ3MEJKSXJjbWRBdz09Cg==",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.125/EZtakeoff_0.8.125_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3NEU1czZjZaUUp1TWhSZ3N0MTBFQjlmdTdXdlhVdFU0Z2NXZDVESjYrL0x0NFNLMDB0Tm13cHN2c0xKZ2FNOG5qWm9XajhzQnF1VVlYRGp0Uyt4YXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjgxNjQxCWZpbGU6RVp0YWtlb2ZmXzAuOC4xMjZfeDY0LXNldHVwLmV4ZQo4TktHVkFSM3YzYVMwZERrUThmaG9WeHU5amM0V0t0aHV2NE5ld0R1dGQyTlFvMWFlWmpJTjBjM3MvMTlqZEF1L2I4V1pMYU1yZnM4NGlJdTdqSnpEUT09Cg==",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.126/EZtakeoff_0.8.126_x64-setup.exe"
     }
   }
 }
