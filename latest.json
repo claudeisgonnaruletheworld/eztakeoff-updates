@@ -1,11 +1,11 @@
 {
-  "version": "0.8.133",
-  "notes": "Drawings with scanned or picture backgrounds are now drawn by the graphics card, so they zoom and pan as fast as plain drawings.",
-  "pub_date": "2026-11-27T20:59:49.187Z",
+  "version": "0.8.134",
+  "notes": "Drawings shown with Drawing Colours are now drawn by the graphics card, so they zoom and pan as fast as plain drawings. Grey areas that overlap are now one even grey.",
+  "pub_date": "2026-11-27T22:17:17.863Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3FRbEs4UzFuSmJaclFieTk3bElrd0gvM3ExKyt3NkNrbi9LNkFaenZYT3pWZXlwT2NRUTVQNFBMODdPcENvSVRaZWprN1E5MzhxOFloQkI1QVIwQlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODEzMTYzCWZpbGU6RVp0YWtlb2ZmXzAuOC4xMzNfeDY0LXNldHVwLmV4ZQo3YzlFTC9LUGN0VzFuanlXWTUzUklUYm54b002UHNRQWxVRVp5V0ZKSnRRV1BMRXIvang1cEpSODB4b2NhOHkrMCtLVjA1Vm1iVUVXeDJEVk1MdE5EUT09Cg==",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.133/EZtakeoff_0.8.133_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3NCM2d1bitMV3ZYMVpXQ0puWXQvODVoOEVLNDVJWlpIeUgzOVFZVmRmTGtoRVdJdHJIbWYvbExjd1VBMEhsbGplZzEvQm8rY3pTK2Mxd1BUSDR4RWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODE3ODA4CWZpbGU6RVp0YWtlb2ZmXzAuOC4xMzRfeDY0LXNldHVwLmV4ZQpFajFGcFJnSUNSNWdOOTZoVjNabTAzUW9rVUhncWExMldad2h0RXBpNDE4YmFxVW9GV0dIYXBrMVlWSnY0WTRJekpBYlZqMFI0ZWZWN3VIUm4vQ0JCQT09Cg==",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.134/EZtakeoff_0.8.134_x64-setup.exe"
     }
   }
 }
