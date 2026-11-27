@@ -1,11 +1,11 @@
 {
-  "version": "0.8.132",
-  "notes": "Combined drawings now show the markups of the sheets they are made from at every zoom. Drawings combined before this update show them after Edit Combined Drawing… and Save Changes. A combined drawing no longer loses part of a sheet placed after one whose PDF ends on an unfinished outline.",
-  "pub_date": "2026-11-27T19:54:29.221Z",
+  "version": "0.8.133",
+  "notes": "Drawings with scanned or picture backgrounds are now drawn by the graphics card, so they zoom and pan as fast as plain drawings.",
+  "pub_date": "2026-11-27T20:59:49.187Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2lQKzJabE1OMjJrNUxSczJZUVBZV3FFZWpnUTZTYjJwVDREcVd5U1BsMHduZm1ibFM2aFEwSHduTGQ0eE82dDdkajFzWjYzU051bFJ4MjlOTE5vaVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODA5MjMzCWZpbGU6RVp0YWtlb2ZmXzAuOC4xMzJfeDY0LXNldHVwLmV4ZQpseWpiS3A5OFQ0d1NIeW5HajBMVjdvbHJHT2tSSmszblpPcUtsVG4zL1FsajBZVGpPM0lTVDBCVVphalUyZWdwNktqenV3QzFZcWlVS3Fzb1htYVlBQT09Cg==",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.132/EZtakeoff_0.8.132_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3FRbEs4UzFuSmJaclFieTk3bElrd0gvM3ExKyt3NkNrbi9LNkFaenZYT3pWZXlwT2NRUTVQNFBMODdPcENvSVRaZWprN1E5MzhxOFloQkI1QVIwQlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODEzMTYzCWZpbGU6RVp0YWtlb2ZmXzAuOC4xMzNfeDY0LXNldHVwLmV4ZQo3YzlFTC9LUGN0VzFuanlXWTUzUklUYm54b002UHNRQWxVRVp5V0ZKSnRRV1BMRXIvang1cEpSODB4b2NhOHkrMCtLVjA1Vm1iVUVXeDJEVk1MdE5EUT09Cg==",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.133/EZtakeoff_0.8.133_x64-setup.exe"
     }
   }
 }
