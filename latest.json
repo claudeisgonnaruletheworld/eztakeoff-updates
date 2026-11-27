@@ -1,11 +1,11 @@
 {
-  "version": "0.8.131",
-  "notes": "Exported PDFs now show Abel Teodosie as the Producer in the file's properties, instead of EZtakeoff.",
-  "pub_date": "2026-11-27T11:20:31.056Z",
+  "version": "0.8.132",
+  "notes": "Combined drawings now show the markups of the sheets they are made from at every zoom. Drawings combined before this update show them after Edit Combined Drawing… and Save Changes. A combined drawing no longer loses part of a sheet placed after one whose PDF ends on an unfinished outline.",
+  "pub_date": "2026-11-27T19:54:29.221Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2krZzluaGROdEV1NVkzdURtQ0pUQkRMSDQrN1k1VGVPaE1PRDdaVlYrRHFmVGNCbjE4MWIwQmRwQkZiOHZNa3l3Qk1tK0g1NWx1OVFXOCtvTG5qaEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Nzc4NDA2CWZpbGU6RVp0YWtlb2ZmXzAuOC4xMzFfeDY0LXNldHVwLmV4ZQpNYnhITGt5ejg2RHZ2TWZZMmVreTRCczhJeG9UbUgwREhYRm5OeXI1SzdqOXFVRkpWekFGYTF6SjNpbU90VFlpdXMybEk5STlRT3lEeS92L1pSMFhCdz09Cg==",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.131/EZtakeoff_0.8.131_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2lQKzJabE1OMjJrNUxSczJZUVBZV3FFZWpnUTZTYjJwVDREcVd5U1BsMHduZm1ibFM2aFEwSHduTGQ0eE82dDdkajFzWjYzU051bFJ4MjlOTE5vaVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODA5MjMzCWZpbGU6RVp0YWtlb2ZmXzAuOC4xMzJfeDY0LXNldHVwLmV4ZQpseWpiS3A5OFQ0d1NIeW5HajBMVjdvbHJHT2tSSmszblpPcUtsVG4zL1FsajBZVGpPM0lTVDBCVVphalUyZWdwNktqenV3QzFZcWlVS3Fzb1htYVlBQT09Cg==",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.132/EZtakeoff_0.8.132_x64-setup.exe"
     }
   }
 }
