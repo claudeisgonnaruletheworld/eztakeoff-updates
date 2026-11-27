@@ -1,11 +1,11 @@
 {
-  "version": "0.8.126",
-  "notes": "Opening several drawings while their grids are being searched no longer runs out of memory. The Pages list has Expand all and Collapse all, like the Templates and Take Off Measurements (also on a page folder's right-click menu). Typing a note near the edge of the drawing no longer slides the drawing sideways, and a new note clicked near the edge starts far enough in to show.",
-  "pub_date": "2026-11-26T08:27:42.635Z",
+  "version": "0.8.127",
+  "notes": "Drawings opened zoomed in, opened on a large screen, or flicked past in the Pages list now use the faster drawing. Before, they could stay on the slower way for as long as they were open.",
+  "pub_date": "2026-11-27T07:08:45.955Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3NEU1czZjZaUUp1TWhSZ3N0MTBFQjlmdTdXdlhVdFU0Z2NXZDVESjYrL0x0NFNLMDB0Tm13cHN2c0xKZ2FNOG5qWm9XajhzQnF1VVlYRGp0Uyt4YXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjgxNjQxCWZpbGU6RVp0YWtlb2ZmXzAuOC4xMjZfeDY0LXNldHVwLmV4ZQo4TktHVkFSM3YzYVMwZERrUThmaG9WeHU5amM0V0t0aHV2NE5ld0R1dGQyTlFvMWFlWmpJTjBjM3MvMTlqZEF1L2I4V1pMYU1yZnM4NGlJdTdqSnpEUT09Cg==",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.126/EZtakeoff_0.8.126_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3NnTUV6bi92dERTa1FPWkRQVVk1Z2NFb1gwd2xleC9keVVhWFlaOXBpblFaY0VTN3R6dXg2UHcwd21qeGRwaGpnbGZYNUxOMUZZT3htR1hKZGZoUUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzYzMjk5CWZpbGU6RVp0YWtlb2ZmXzAuOC4xMjdfeDY0LXNldHVwLmV4ZQp3NVF4T2VYL3ZpaVhHZVZNUXFqYmVpMTVvMkVpNWw2OEZWWSs2QjJTMDZrNmZpSmJ0Y29kci9wOWd5U3htL1NDdEFoSkF4RUdFRVhLYVNyM3NGLy9CZz09Cg==",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.127/EZtakeoff_0.8.127_x64-setup.exe"
     }
   }
 }
