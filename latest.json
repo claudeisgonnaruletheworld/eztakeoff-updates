@@ -1,11 +1,11 @@
 {
-  "version": "0.8.130",
-  "notes": "Linked notes: only the link mark on a linked note's top-right corner opens the other drawing, and both drawings zoom so the note fills them.",
-  "pub_date": "2026-11-27T10:30:33.487Z",
+  "version": "0.8.131",
+  "notes": "Exported PDFs now show Abel Teodosie as the Producer in the file's properties, instead of EZtakeoff.",
+  "pub_date": "2026-11-27T11:20:31.056Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3JiUkhZOUhnWnZoaGQyZGFyMW1MY1lBbXkrV0dMZ0w3WEdCcXhtNEVhb0Y1d2ZaajE3V2J6NFMyQ3BWRVpaM3MrT1hZaytiQ1d0NU0xWUFSS1RKYndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Nzc1NDA3CWZpbGU6RVp0YWtlb2ZmXzAuOC4xMzBfeDY0LXNldHVwLmV4ZQppV2JEOFlMRlp3WjBndzVhYzUwWTcvL0FCODNWd2pPSWwvSEE3SWVad3d3YWdLbFZVWVBBdEhaYnRXMWFDKzZUM3VmNUMrdktnTDVtSndHZHdWNzFBQT09Cg==",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.130/EZtakeoff_0.8.130_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2krZzluaGROdEV1NVkzdURtQ0pUQkRMSDQrN1k1VGVPaE1PRDdaVlYrRHFmVGNCbjE4MWIwQmRwQkZiOHZNa3l3Qk1tK0g1NWx1OVFXOCtvTG5qaEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Nzc4NDA2CWZpbGU6RVp0YWtlb2ZmXzAuOC4xMzFfeDY0LXNldHVwLmV4ZQpNYnhITGt5ejg2RHZ2TWZZMmVreTRCczhJeG9UbUgwREhYRm5OeXI1SzdqOXFVRkpWekFGYTF6SjNpbU90VFlpdXMybEk5STlRT3lEeS92L1pSMFhCdz09Cg==",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.131/EZtakeoff_0.8.131_x64-setup.exe"
     }
   }
 }
