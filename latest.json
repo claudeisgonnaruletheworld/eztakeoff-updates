@@ -1,11 +1,11 @@
 {
-  "version": "0.8.128",
-  "notes": "Notes can now be placed on two drawings at once: right-click a note and choose Place on Another Drawing. Clicking a linked note shows both drawings side by side, and a change to one copy changes the other. Sets are now kept for each job (Takeoff > Sets): the app finds every set on the drawings, numbers it and asks for it to be decided. A template's Rule for Claude is now a card with checks that Claude must answer at every fitting it places.",
-  "pub_date": "2026-11-27T08:46:46.572Z",
+  "version": "0.8.129",
+  "notes": "Export PDF for Bluebeam now makes one PDF for each page, named as the page is in the app, even when pages come from the same drawing file. Claude's export makes the folder if it isn't there yet.",
+  "pub_date": "2026-11-27T10:16:49.119Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3NFeTFsN0JtMHJ3cUZ4d3RoaEdBd0tXbm1HKzFSSmZLUWt3L2FMRXZrSkdYb1JxdVZKTmZIb25BS1h0bWhEbkk3aUR4MEpTLzF5VEUydVByalRjWEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzY5MTgzCWZpbGU6RVp0YWtlb2ZmXzAuOC4xMjhfeDY0LXNldHVwLmV4ZQpCTFR5b0ZuY29jU0k3QXp3YW9YdjRucjFVQmFPbVAvSG12NFBiR051RWFIaER5Q1B4ay9qN0FRY1M0SmJvV3dhQlBvT1JPR2loRVptREVGSGpsYzZBZz09Cg==",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.128/EZtakeoff_0.8.128_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N2pWbERJVUtHNHZ2TWxENkhQWDJGOWVQbGwxanJ3SWtGcmhPKzgwVnEwb282d29GYXBOSE0xRGtkRGNZMmpiL1NqV21nczVPRTI3NjRkNHRMZXRHb1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Nzc0NTg5CWZpbGU6RVp0YWtlb2ZmXzAuOC4xMjlfeDY0LXNldHVwLmV4ZQo2U0ZZUG96Y1g1eHZibVBEMGFPa3piQ2NrT01UUTR2dHFPVU9rQ0djbXBHOEdkM21uSDVXMW1TRFN6bXRDcFBFak1ESnZKdGlTaHRzdVRuM25rdHVDdz09Cg==",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.129/EZtakeoff_0.8.129_x64-setup.exe"
     }
   }
 }
