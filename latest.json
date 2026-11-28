@@ -1,11 +1,11 @@
 {
-  "version": "0.8.136",
-  "notes": "Combined drawings made from lighter drawings are now drawn by the graphics card, so zooming and panning them is as fast as on single drawings. Combined drawings made from heavy drawings, or with a legend copied beside the plan, are drawn as before for now. A combined drawing is checked in the background the first time it is opened.",
-  "pub_date": "2026-11-28T10:43:16.952Z",
+  "version": "0.8.137",
+  "notes": "After an update, EZtakeoff no longer checks every drawing for the graphics card again, unless the update changed how drawings are drawn. Each drawing is checked one more time after this update, the first time it is opened.",
+  "pub_date": "2026-11-28T12:03:24.606Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N20xM0o4TFJvWGRFUEIxclRXK2lEa0M2c2c3L0p0N21NNStWQmt6a2tFZEZiajBLN0VXejF5ZFl5ODFpbGVWZUV1azl1bzNVOXJuVHkyRG9DaTlBQVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODYyNTcwCWZpbGU6RVp0YWtlb2ZmXzAuOC4xMzZfeDY0LXNldHVwLmV4ZQpwVXREWW51MGRQdHNWMUt6SFBwWkV3d0gzYW14QjNTdmVMZlJKek5lUHluMnBWRHRIc2tUK2pxYXhya1RYekdPMzVraEhyQVVQdWxxcW9UNlFULy9CQT09Cg==",
-      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.136/EZtakeoff_0.8.136_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZlFtRVIxV2Q2N3AzelRFcDNXNjU2Q1hvLzBWYzNqdFVFOHYwejJRcFhQSWtzZEdKOExkYWowNDR5cEYvMC9DWkUrSnY5VnFuQ3dmblVreEl1QkhvNC9uRXE5NGJ6NlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODY3MzcwCWZpbGU6RVp0YWtlb2ZmXzAuOC4xMzdfeDY0LXNldHVwLmV4ZQpZYm5zQ0hOT3VySWFzMjhPQlp4SlMzZEFBV1A5V2JmSmVqNGdpTWhiQ1QwRlgrczZ5cUlHZlVHb09BM3JRS1U1QmcxS1RlT1hwYWFFbzRoS05rTGNCUT09Cg==",
+      "url": "https://github.com/claudeisgonnaruletheworld/eztakeoff-updates/releases/download/v0.8.137/EZtakeoff_0.8.137_x64-setup.exe"
     }
   }
 }
